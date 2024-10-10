@@ -15,7 +15,7 @@
   📫 emmanuellefevre@protonmail.com
 </div>
 
-<div align="center" style="margin-bottom:40px;>
+<div align="center">
   <h2>🧰  Tools  🧰</h2>
 </div>
 <div align="center">
@@ -58,6 +58,9 @@
   <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
   <img alt="RXJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" />
 </div>
+
+<br>
+<br>
 
 <div align="center">
   <h2>📚  Languages  📚</h2>
