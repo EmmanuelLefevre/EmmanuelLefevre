@@ -59,7 +59,7 @@
   <img alt="RXJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" />
 </div>
 
-<div align="center">
+<div align="center" style="margin-top: 100px;>
   <h2>📚  Languages  📚</h2>
 </div>
 <div>
