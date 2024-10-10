@@ -15,7 +15,7 @@
   📫 emmanuellefevre@protonmail.com
 </div>
 
-<div align="center">
+<div align="center" style="margin-bottom:40px;>
   <h2>🧰  Tools  🧰</h2>
 </div>
 <div align="center">
