@@ -16,7 +16,9 @@
   :art: Portfolio: https://www.emmanuellefevre.com/ <br>
   📫 emmanuellefevre@protonmail.com
 </div>
-#
+
+<br/>
+<hr/>
 
 ## 🧰 Tools
 <p align="left">
