@@ -6,7 +6,7 @@
 
 <br/>
 
-<h3 align="center">An application and web developer from France</h3>
+<h3 align="center">An application and web developer</h3>
 
 </br>
 
