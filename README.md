@@ -16,7 +16,7 @@
 </div>
 
 <div align="center">
-  <h2>🧰 Tools an languages 🧰</h2>
+  <h2>🧰  Tools an languages  🧰</h2>
 </div>
 <img align="left" alt="Angular" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 <img align="left" alt="Symfony" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" />
@@ -64,13 +64,16 @@
 <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 
+<!-- Clear floats -->
+<div style="clear: both;"></div>
+
 <div align="center">
-  <h2>🎯 Contributions 🎯</h2>
+  <h2>🎯  Contributions  🎯</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EmmanuelLefevre/EmmanuelLefevre/output/github-contribution-grid-snake.svg" />
 </div>
 
 <div align="center">
-  <h2>📊 Stats 📊</h2>
+  <h2>📊  Stats  📊</h2>
 </div>
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=95CB11&border=95CB11)](https://git.io/streak-stats)<br>
