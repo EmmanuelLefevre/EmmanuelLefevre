@@ -1,8 +1,14 @@
-Hi my name is Emmanuel Lefevre ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-========================================================================================================================================
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EmmanuelLefevre.EmmanuelLefevre" />
 
-Application and web developer
------------------------------
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=95CB11&center=true&vCenter=true&width=550&height=70&lines=Hi+There!+👋;+I'm+Emmanuel+Lefevre!;" />
+</h1>
+
+<br/>
+
+<h3 align="center">An application and web developer from France</h3>
+
+</br>
 
 🔥  I'm a Full-Stack Developer from France. I have experience building web applications mainly in Angular/Symfony and also in home automation. I enjoy building side projects in my free time.
 
