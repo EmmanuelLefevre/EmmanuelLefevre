@@ -13,6 +13,7 @@
 <div align="left">
   :art: Portfolio: https://www.emmanuellefevre.com/ <br>
   📫 emmanuellefevre@protonmail.com
+  📫 emmanuellefevre@protonmail.com
 </div>
 
 <br/>
