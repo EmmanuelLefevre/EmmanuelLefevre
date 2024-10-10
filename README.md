@@ -66,7 +66,7 @@
   <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 </div>
 
-<div align="center" style="clear: both;>
+<div align="center">
   <h2>🎯  Contributions  🎯</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EmmanuelLefevre/EmmanuelLefevre/output/github-contribution-grid-snake.svg" />
 </div>
