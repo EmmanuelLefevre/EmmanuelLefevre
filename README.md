@@ -17,6 +17,13 @@
 
 <br/>
 
+<div align="center">
+  <h2>🎯 Contributions 🎯</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EmmanuelLefevre/EmmanuelLefevre/output/github-contribution-grid-snake.svg" />
+  <br/>
+</div>
+
 ## 🧰 Tools
 <p align="left">
   <img align="left" alt="Angular" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
