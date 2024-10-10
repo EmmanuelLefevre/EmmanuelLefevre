@@ -25,17 +25,14 @@
 
 #
 
-### 📊 Stats
 <p align="center">
-  ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=EmmanuelLefevre&show_icons=true&theme=gruvbox)
-<!-- 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=FF7624)](https://git.io/streak-stats) -->
+  [![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=FF7624)](https://git.io/streak-stats)
 </p>
 
 #
 
 <p align="left">
   :art: Portfolio: https://www.emmanuellefevre.com/ <br>
-  https://www.linkedin.com/in/emmanuel-l-06350b167/ <br>
+  [Mon LinkedIn](https://www.linkedin.com/in/emmanuel-l-06350b167/) <br>
   📫 emmanuellefevre@protonmail.com
 </p>
