@@ -6,9 +6,7 @@ Application and web developer
 
 🔥  I'm a Full-Stack Developer from France. I have experience building web applications mainly in Angular/Symfony and also in home automation. I enjoy building side projects in my free time.
 
-
 #
-
 
 ### 🧰 Tools
 <p align="left">
@@ -48,10 +46,6 @@ Application and web developer
   <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
 </p>
 
-
-#
-
-
 ### 📚 Languages
 <p align="left">
   <img align="left" alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -66,10 +60,6 @@ Application and web developer
   <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 </p>
 
-
-#
-
-
 ### 📊 Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=95CB11)](https://git.io/streak-stats)<br>
 
@@ -77,8 +67,6 @@ Application and web developer
 <a href="https://github.com/EmmanuelLefevre" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelLefevre&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
-
-
 
 <p align="left">
   :art: Portfolio: https://www.emmanuellefevre.com/ <br>
