@@ -69,7 +69,7 @@
 <div style="clear: both; margin-top: 20px;"></div>
 
 <div align="center">
-  <h2>🎯  Contributions  🎯</h2>
+
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EmmanuelLefevre/EmmanuelLefevre/output/github-contribution-grid-snake.svg" />
 </div>
 
