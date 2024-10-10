@@ -2,9 +2,13 @@ Hi my name is Emmanuel Lefevre ![](https://user-images.githubusercontent.com/183
 ========================================================================================================================================
 
 Application and web developer
-#
+-----------------------------
 
 🔥  I'm a Full-Stack Developer from France. I have experience building web applications mainly in Angular/Symfony and also in home automation. I enjoy building side projects in my free time.
+
+
+#
+
 
 ### 🧰 Tools
 <p align="left">
@@ -42,7 +46,11 @@ Application and web developer
   <img align="left" alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
   <img align="left" alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img align="left" alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-</p><br>
+</p>
+
+
+#
+
 
 ### 📚 Languages
 <p align="left">
@@ -56,7 +64,7 @@ Application and web developer
   <img align="left" alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
   <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
-</p><br>
+</p>
 
 
 #
@@ -68,7 +76,9 @@ Application and web developer
 ### 🧐 Top
 <a href="https://github.com/EmmanuelLefevre" align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelLefevre&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-</a><br>
+</a>
+
+
 
 <p align="left">
   :art: Portfolio: https://www.emmanuellefevre.com/ <br>
