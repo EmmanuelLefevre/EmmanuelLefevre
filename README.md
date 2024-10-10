@@ -21,10 +21,15 @@
 </div>
 
 <div align="center">
-  <h2>📊 Stats</h2>
-  [![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=95CB11&border=95CB11)](https://git.io/streak-stats)<br>
+  <h2>📊 Stats 📊</h2>
+</div>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=95CB11&border=95CB11)](https://git.io/streak-stats)<br>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuellefevre&langs_count=12&layout=compact&theme=default&border_radius=15&border_color=95cb11&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Top%20%Languages&title_color=95cb11" alt="Top Languages" />
 </div>
+
 
 
 
