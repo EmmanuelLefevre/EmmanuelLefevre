@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=EmmanuelLefevre.EmmanuelLefevre" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=95CB11&center=true&vCenter=true&width=550&height=70&lines=Hi+There!+👋;+I'm+Emmanuel+Lefevre!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=95CB11&center=true&vCenter=true&width=550&height=70&lines=Hi+There!+👋;+I'm+Emmanuel+Lefevre!;" />
 </h1>
 
 <br/>
@@ -10,9 +10,13 @@
 
 </br>
 
-🔥  I'm a Full-Stack Developer from France. I have experience building web applications mainly in Angular/Symfony and also in home automation. I enjoy building side projects in my free time.
+🔥  I'm a full-stack developer from France. I have experience building web applications mainly in Angular/Symfony and also in home automation. I enjoy building side projects in my free time.
 
-#
+<p align="left">
+  :art: Portfolio: https://www.emmanuellefevre.com/ <br>
+  📫 emmanuellefevre@protonmail.com
+</p>
+
 
 ## 🧰 Tools
 <p align="left">
@@ -77,7 +81,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelLefevre&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 </a>
 
-<p align="left">
-  :art: Portfolio: https://www.emmanuellefevre.com/ <br>
-  📫 emmanuellefevre@protonmail.com
-</p>
+
