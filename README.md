@@ -12,10 +12,11 @@
 
 🔥  I'm a full-stack developer from France. I have experience building web applications mainly in Angular/Symfony and also in home automation. I enjoy building side projects in my free time.
 
-<p align="left">
-  :art: Portfolio: https://www.emmanuellefevre.com/ <br>
+<div align="left">
+  :art: Portfolio:<a href="https://www.emmanuellefevre.com/"  target="_blank"</a>
+  <br>
   📫 emmanuellefevre@protonmail.com
-</p>
+</div>
 
 
 ## 🧰 Tools
