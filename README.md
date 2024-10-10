@@ -1,5 +1,6 @@
-# 🏄‍♂️ Emmanuel Lefevre
-
+<p align="center" style="color: #95cb11;">
+  Emmanuel Lefevre
+</p>
 🔥 I'm a Full-Stack Developer from France. I have experience building web applications mainly in Angular/Symfony and also in home automation. I enjoy building side projects in my free time.
 
 ### 🧰 Languages and Tools
@@ -22,7 +23,7 @@
 <br />
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=FF7624)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=95CB11)](https://git.io/streak-stats)
 
 #
 <br>
