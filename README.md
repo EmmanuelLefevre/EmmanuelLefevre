@@ -2,7 +2,7 @@
 
 **`Application developer`**
 
-🔥 I'm a Full-Stack Developer from France. I have experience building web applications mainly in Angular/Symfony. I also enjoy building side projects in my free time.
+🔥 I'm a Full-Stack Developer from France. I have experience building web applications mainly in Angular/Symfony and also in home automation. I enjoy building side projects in my free time.
 
 ### 🧰 Languages and Tools
 
@@ -28,9 +28,8 @@
 ### 📊 Stats
 <p align="center">
   ![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=emmanuellefevre&show_icons=true&theme=gruvbox)
-
-  [![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=FF7624)](https://git.io/streak-stats)
-  <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
+<!-- 
+  [![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=FF7624)](https://git.io/streak-stats) -->
 </p>
 
 #
