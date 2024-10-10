@@ -18,8 +18,8 @@
 <div align="center">
   <h2>🧰  Tools an languages  🧰</h2>
 </div>
-<div style="overflow: hidden;">
-  <img align="left" alt="Angular" width="30px" style="padding-right:10px; padding-bottom:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img align="left" alt="Symfony" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" />
   <img align="left" alt="Dotnet Core" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img align="left" alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
@@ -65,6 +65,8 @@
   <img align="left" alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
   <img align="left" alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
 </div>
+
+<div style="clear: both; margin-top: 20px;"></div>
 
 <div align="center">
   <h2>🎯  Contributions  🎯</h2>
