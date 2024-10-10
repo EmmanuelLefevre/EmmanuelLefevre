@@ -4,11 +4,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Righteous&size=35&duration=4000&pause=1000&color=95CB11&center=true&vCenter=true&width=550&height=70&lines=Hi+There!+👋;+I'm+Emmanuel+Lefevre!;" />
 </h1>
 
-<br/>
-
 <h3 align="center">An application and web developer</h3>
 
-</br>
+<br/>
 
 🔥  I'm a full-stack developer from France. I have experience building web applications mainly in Angular/Symfony and also in home automation. I enjoy building side projects in my free time.
 
@@ -18,7 +16,6 @@
 </div>
 
 <br/>
-<hr/>
 
 ## 🧰 Tools
 <p align="left">
