@@ -109,5 +109,6 @@
 <br>
 
 <div align="center">
+  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
   <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=EmmanuelLefevre&bg_color=FFFFFF&color=95CB11&title_color=95CB11&1line=FF5F00&point=95CB11&custom_title=Contribution%Graph&radius=15&days=35&grid=true" /></a>
 </div>
