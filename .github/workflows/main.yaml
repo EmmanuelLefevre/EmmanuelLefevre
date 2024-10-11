@@ -48,6 +48,9 @@ jobs:
       - name: Check out repo
         uses: actions/checkout@v2
 
+      - name: List files
+        run: ls -la
+
       - name: Set up Python
         uses: actions/setup-python@v2
         with:
