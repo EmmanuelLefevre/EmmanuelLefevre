@@ -1,6 +1,7 @@
 <div align="right">
-  <img src="https://img.shields.io/github/last-commit/:user/:repo />
+  <img src="https://img.shields.io/github/last-commit/:user/:repo" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EmmanuelLefevre.EmmanuelLefevre" />
+  ![pv](https://pageview.vercel.app/?github_user=mopig)
 </div>
 
 <h1 align="center">
