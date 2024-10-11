@@ -139,8 +139,8 @@
     <a align="left" href="https://github.com/EmmanuelLefevre/LeCabinetDeCuriosites" title="LeCabinetDeCuriosites">
       <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=LeCabinetDeCuriosites&theme=default&bg_color=FFFFFF&text_color=696969&title_color=95CB11&icon_color=95CB11&border_color=95CB11&border_radius=15">
     </a>
-    <a align="right" href="https://github.com/EmmanuelLefevre/IAmEmmanuelLefevre" title="IAmEmmanuelLefevre">
-      <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=IAmEmmanuelLefevre&theme=default&bg_color=FFFFFF&text_color=696969&title_color=95CB11&icon_color=95CB11&border_color=95CB11&border_radius=15">
+    <a align="left" href="https://github.com/EmmanuelLefevre/IAmEmmanuelLefevre" title="IAmEmmanuelLefevre">
+      <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=IAmEmmanuelLefevre&theme=default&bg_color=FFFFFF&text_color=696969&title_color=95CB11&icon_color=95CB11&border_color=95CB11&border_radius=15">
     </a>
   </div>
 </div>
