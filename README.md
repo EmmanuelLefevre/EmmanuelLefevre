@@ -1,5 +1,4 @@
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=EmmanuelLefevre" alt="EmmanuelLefevre" />
   <img src="https://img.shields.io/github/last-commit/EmmanuelLefevre/EmmanuelLefevre" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EmmanuelLefevre.EmmanuelLefevre" />
 </div>
