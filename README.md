@@ -127,10 +127,10 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/EmmanuelLefevre/EasyGarden" title="EasyGarden">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=EasyGarden&theme=default&bg_color=FFFFFF&text_color=696969&title_color=95CB11&show_icons=true&icon_color=ff3860&border_color=95CB11&border_radius=15" />
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=EasyGarden&theme=default&bg_color=FFFFFF&text_color=696969&title_color=FF5F00&show_icons=true&icon_color=95CB11&border_color=95CB11&border_radius=15" />
   </a>
   <a align="right" href="https://github.com/EmmanuelLefevre/ArtiWave" title="ArtiWave">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=ArtiWave&theme=default&bg_color=FFFFFF&text_color=696969&title_color=95CB11&show_icons=true&icon_color=ff3860&border_color=95CB11&border_radius=15" />
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=ArtiWave&theme=default&bg_color=FFFFFF&text_color=696969&title_color=FF5F00&show_icons=true&icon_color=95CB11&border_color=95CB11&border_radius=15" />
   </a>
 </div>
 
