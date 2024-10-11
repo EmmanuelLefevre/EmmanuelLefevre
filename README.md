@@ -1,13 +1,13 @@
 <div align="right">
-  <img src="https://img.shields.io/github/last-commit/EmmanuelLefevre/EmmanuelLefevre" />
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EmmanuelLefevre.EmmanuelLefevre" />
+  <img src="https://img.shields.io/github/last-commit/EmmanuelLefevre/EmmanuelLefevre" />
   <img src="https://github.com/EmmanuelLefevre/EmmanuelLefevre/workflows/Build%20README/badge.svg" />
 </div>
 
 <br>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pacifico&size=35&duration=4000&pause=1000&color=95CB11&center=true&vCenter=true&width=550&height=70&lines=Hi+There!+👋;+I'm+Emmanuel+Lefevre!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Sacramento&size=35&duration=4000&pause=1000&color=95CB11&center=true&vCenter=true&width=550&height=70&lines=Hi+There!+👋;+I'm+Emmanuel+Lefevre!;" />
 </h1>
 
 <h3 align="center">An application and web developer</h3>
