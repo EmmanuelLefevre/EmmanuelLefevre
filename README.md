@@ -98,7 +98,7 @@
   <h2>📊  Stats  📊</h2>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=989898&border=95CB11)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=95CB11&border=95CB11)](https://git.io/streak-stats)<br>
 
 <br>
 
@@ -110,5 +110,5 @@
 
 <div align="center">
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=EmmanuelLefevre&bg_color=FFFFFF&color=95CB11&title_color=95CB11&line=989898&point=FF5F00&custom_title=Contribution%20Graph&radius=15&days=30&grid=true&hide_border=false" /></a>
+  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=EmmanuelLefevre&bg_color=FFFFFF&color=95CB11&title_color=95CB11&line=989898&point=FF5F00&custom_title=Contribution%20Graph&radius=15&days=30&grid=true&hide_border=true&area_colot=95CB11&area=true" /></a>
 </div>
