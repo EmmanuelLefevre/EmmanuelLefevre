@@ -147,6 +147,6 @@
 
 <br>
 
-<h3 align="center">
+<!-- <h3 align="center">
   <a href="https://github.com/EmmanuelLefevre?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
-</h3>
+</h3> -->
