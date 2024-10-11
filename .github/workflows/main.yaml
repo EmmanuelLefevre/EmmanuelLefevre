@@ -1,28 +1,18 @@
-# GitHub Action for generating a contribution graph with a snake eating your contributions.
-name: Generate Snake
+name: Combined Workflows
 
-# Controls when the action will run.
 on:
   schedule:
-      # every 12 hours
-    - cron: "0 */12 * * *"
-
-  # This command allows us to run the Action automatically from the Actions tab.
+    # Schedule for both workflows
+    - cron: "0 */12 * * *" # For the snake generation
+    - cron: "0 0 * * *"    # For the README update
   workflow_dispatch:
-
-  # Also run on every push on the master branch
   push:
     branches:
-    - main
+      - main
 
-# The sequence of runs in this workflow:
 jobs:
-  # This workflow contains a single job called "build"
-  build:
-    # The type of runner that the job will run on
+  generate_snake:
     runs-on: ubuntu-latest
-
-    # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       - name: Clone repo
         uses: actions/checkout@v3
@@ -50,3 +40,41 @@ jobs:
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  build_readme:
+    runs-on: ubuntu-latest
+    needs: generate_snake  # Ensure this runs after the snake job
+    steps:
+      - name: Check out repo
+        uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: 3.8
+
+      - uses: actions/cache@v2
+        name: Configure pip caching
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-pip-
+
+      - name: Install Python dependencies
+        run: |
+          python -m pip install -r requirements.txt
+
+      - name: Update README
+        run: |
+          python build_readme.py
+          cat README.md
+
+      - name: Commit and push if changed
+        run: |
+          git diff
+          git config --global user.email "readme-bot@example.com"
+          git config --global user.name "README-bot"
+          git add -A
+          git commit -m "Updated content" || exit 0
+          git push
