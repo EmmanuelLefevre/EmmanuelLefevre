@@ -1,4 +1,4 @@
-name: Snake & README
+name: workflows
 
 on:
   push:
