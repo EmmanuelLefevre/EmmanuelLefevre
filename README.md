@@ -28,7 +28,7 @@
 </div>
 <div>
   <img alt="Angular" title="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
-  <img alt="Symfony" title="Symfony" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/symfony.png" />
+  <img alt="Symfony" title="Symfony" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/symfony.png" />
   <img alt="Dotnet Core" title="Dotnet Core" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img alt="Express" title="Express" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/express.png" />
   <img alt="NodeJs" title="NodeJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
@@ -65,7 +65,7 @@
   <img alt="Jest" title="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
   <img alt="PHPUnit" title="PHPUnit" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/phpunit.svg"  />
   <img alt="NUnit" title="NUnit" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/nunit.png"  />
-  <img alt="SSH" title="SSH" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/ssh.svg" />
+  <img alt="SSH" title="SSH" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/ssh.png" />
   <img alt="PowerShell" title="PowerShell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
   <img alt="OhMyZsh" title="OhMyZsh" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" />
   <img alt="Neovim" title="Neovim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
