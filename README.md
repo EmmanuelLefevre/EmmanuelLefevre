@@ -1,7 +1,7 @@
 <div align="right">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=EmmanuelLefevre.EmmanuelLefevre" />
   <img src="https://img.shields.io/github/last-commit/EmmanuelLefevre/EmmanuelLefevre" />
-  <img src="https://github.com/EmmanuelLefevre/EmmanuelLefevre/workflows/Build%20README/badge.svg" />
+  <img src="https://github.com/EmmanuelLefevre/EmmanuelLefevre/workflows/Combined%20Snake%20and%20README%20Workflow/badge.svg" />
 </div>
 
 <br>
