@@ -29,65 +29,66 @@
 <div>
   <img alt="Angular" title="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img alt="Symfony" title="Symfony" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" />
-  <img alt="Dotnet Core" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
-  <img alt="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
-  <img alt="NodeJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
-  <img alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
-  <img alt="Azure Devops" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
-  <img alt="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
-  <img alt="MongoDb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
-  <img alt="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
-  <img alt="Microsoft SQL Server" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
-  <img alt="MariaDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
-  <img alt="Doctrine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/doctrine/doctrine-original.svg" />
-  <img alt="Mongoose" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
-  <img alt="ApiPlatform" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/apiplatform.svg" />
-  <img alt="API REST" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/rest.png" />
-  <img alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-  <img alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
-  <img alt="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
-  <img alt="GitHub Actions" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
-  <img alt="GitLab CICD" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/gitlabcicd.png" />
-  <img alt="GitLab Runner" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/gitlabrunner.png" />
-  <img alt="UML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
-  <img alt="Merise" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/merise.png" />
-  <img alt="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
-  <img alt="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img alt="Sonarqube" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" />
-  <img alt="Checkmarx" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/checkmarx.svg" />
-  <img alt="Swagger" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
-  <img alt="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
-  <img alt="Compodoc" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/compodoc.svg" />
-  <img alt="NVM" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/nvm.png" />
-  <img alt="Composer" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />
-  <img alt="NPM" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
-  <img alt="Nuget" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" />
-  <img alt="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
-  <img alt="PHPUnit" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/phpunit.svg"  />
-  <img alt="NUnit" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/nunit.png"  />
-  <img alt="SSH" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" />
-  <img alt="PowerShell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
-  <img alt="OhMyZsh" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" />
-  <img alt="Neovim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
-  <img alt="Handlebars" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original.svg" />
-  <img alt="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
-  <img alt="Mantis" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/mantis.png" />
-  <img alt="Material UI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
-  <img alt="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
-  <img alt="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
-  <img alt="Raspberry" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
-  <img alt="AMDEC" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/amdec.png" />
-  <img alt="ITIL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/itil.png" />
-  <img alt="SCRUM" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/scrum.svg" />
-  <img alt="JSON" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
-  <img alt="XML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
-  <img alt="YAML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
-  <img alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img alt="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
-  <img alt="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
-  <img alt="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-  <img alt="PowerPoint" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/powerpoint.svg" />
-  <img alt="Word" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/word.svg" />
+  <img alt="Dotnet Core" title="Dotnet Core" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
+  <img alt="Express" title="Express" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original.svg" />
+  <img alt="NodeJs" title="NodeJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
+  <img alt="Azure Devops" title="Azure Devops" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
+  <img alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img alt="MongoDb" title="MongoDb" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" />
+  <img alt="PostgreSQL" title="PostgreSQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img alt="Microsoft SQL Server" title="Microsoft SQL Server" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+  <img alt="MariaDB" title="MariaDB" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" />
+  <img alt="Doctrine" title="Doctrine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/doctrine/doctrine-original.svg" />
+  <img alt="Mongoose" title="Mongoose" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" />
+  <img alt="ApiPlatform" title="ApiPlatform" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/apiplatform.svg" />
+  <img alt="API REST" title="API REST" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/rest.png" />
+  <img alt="Git" title="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+  <img alt="GitHub" title="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+  <img alt="GitLab" title="GitLab" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" />
+  <img alt="GitHub Actions" title="GitHub Actions" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/githubactions/githubactions-original.svg" />
+  <img alt="GitLab CICD" title="GitLab CICD" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/gitlabcicd.png" />
+  <img alt="GitLab Runner" title="GitLab Runner" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/gitlabrunner.png" />
+  <img alt="UML" title="UML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unifiedmodelinglanguage/unifiedmodelinglanguage-original.svg" />
+  <img alt="Merise" title="Merise" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/merise.png" />
+  <img alt="Postman" title="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
+  <img alt="Figma" title="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
+  <img alt="Sonarqube" title="Sonarqube" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sonarqube/sonarqube-original-wordmark.svg" />
+  <img alt="Checkmarx" title="Checkmarx" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/checkmarx.svg" />
+  <img alt="Swagger" title="Swagger" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />
+  <img alt="Markdown" title="Markdown" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/markdown/markdown-original.svg" />
+  <img alt="Compodoc" title="Compodoc" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/compodoc.svg" />
+  <img alt="NVM" title="NVM" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/nvm.png" />
+  <img alt="Composer" title="Composer" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/composer/composer-original.svg" />
+  <img alt="NPM" title="NPM" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/npm/npm-original-wordmark.svg" />
+  <img alt="Nuget" title="Nuget" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nuget/nuget-original.svg" />
+  <img alt="Jest" title="Jest" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jest/jest-plain.svg" />
+  <img alt="PHPUnit" title="PHPUnit" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/phpunit.svg"  />
+  <img alt="NUnit" title="NUnit" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/nunit.png"  />
+  <img alt="SSH" title="SSH" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ssh/ssh-original-wordmark.svg" />
+  <img alt="PowerShell" title="PowerShell" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/powershell/powershell-original.svg" />
+  <img alt="OhMyZsh" title="OhMyZsh" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ohmyzsh/ohmyzsh-original.svg" />
+  <img alt="Neovim" title="Neovim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
+  <img alt="Handlebars" title="Handlebars" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/handlebars/handlebars-original.svg" />
+  <img alt="Jira" title="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+  <img alt="Mantis" title="Mantis" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/mantis.png" />
+  <img alt="Material UI" title="Material UI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
+  <img alt="Trello" title="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
+  <img alt="Arduino" title="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
+  <img alt="Raspberry" title="Raspberry" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
+  <img alt="AMDEC" title="AMDEC" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/amdec.png" />
+  <img alt="ITIL" title="ITIL" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/itil.png" />
+  <img alt="SCRUM" title="SCRUM" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/scrum.svg" />
+  <img alt="JSON" title="JSON" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
+  <img alt="XML" title="XML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
+  <img alt="YAML" title="YAML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yaml/yaml-original.svg" />
+  <img alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
+  <img alt="Windows" title="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
+  <img alt="WSL2" title="WSL2" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/wsl2.png" />
+  <img alt="VsCode" title="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
+  <img alt="Visual Studio" title="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
+  <img alt="PowerPoint" title="PowerPoint" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/powerpoint.svg" />
+  <img alt="Word" title="Word" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/word.svg" />
 </div>
 
 <br>
@@ -96,17 +97,17 @@
   <h2>📚  Languages  📚</h2>
 </div>
 <div>
-  <img alt="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
-  <img alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
-  <img alt="RXJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" />
-  <img alt="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
-  <img alt="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
-  <img alt="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-  <img alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img alt="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
-  <img alt="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
-  <img alt="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
-  <img alt="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img alt="Typescript" title="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+  <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+  <img alt="RXJS" title="RXJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg" />
+  <img alt="PHP" title="PHP" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" />
+  <img alt="C#" title="C#" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />
+  <img alt="C" title="C" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
+  <img alt="Java" title="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+  <img alt="Lua" title="Lua" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/lua/lua-original.svg" />
+  <img alt="HTML5" title="HTML5" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+  <img alt="Sass" title="Sass" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+  <img alt="CSS3" title="CSS3" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
 </div>
 
 <br>
