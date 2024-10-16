@@ -14,7 +14,7 @@
 
 <br/>
 
-🔥  I'm a full-stack developer from France. I have experience building web sites & applications mainly in Angular/Symfony and also in home automation. I enjoy building side projects in my free time.
+🔥  I'm a full-stack developer from France. I have experience in building sites and web applications mainly in Angular/Symfony, I have also developed skills in home automation. I enjoy building side projects in my free time.
 
 <div align="left">
   :art: https://www.emmanuellefevre.com/ <br>
