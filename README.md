@@ -10,7 +10,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Seaweed+Script&size=48&duration=4000&pause=1000&color=95CB11&center=true&vCenter=true&width=550&height=70&lines=Hi+There&nbsp;!+👋;+I'm+Emmanuel+Lefevre&nbsp;!;" />
 </h1>
 
-<h3 align="center">Application and Web Developer</h3>
+<h3 align="center">pplication and Web Developer</h3>
 
 <br/>
 
