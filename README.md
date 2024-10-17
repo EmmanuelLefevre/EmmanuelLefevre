@@ -77,7 +77,7 @@
   <img alt="Neovim" title="Neovim" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/neovim/neovim-original.svg" />
   <img alt="Postman" title="Postman" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   <img alt="Figma" title="Figma" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" />
-  <img alt="MJML" title="MJML" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/mjml.png" />
+  <img alt="MJML" title="MJML" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/mjml.png" />
   <img alt="Handlebars" title="Handlebars" width="42px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/handlebars.png" />
   <img alt="Pug" title="Pug" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/pug.svg" />
   <img alt="HTMX" title="HTMX" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/htmx.png" />
@@ -91,30 +91,30 @@
   <img alt="Bootstrap" title="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original-wordmark.svg" />
   <img alt="JQuery" title="JQuery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
   <img alt="Stack Overflow" title="Stack Overflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" />
-  <img alt="PHPMyAdmin" title="PHPMyAdmin" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/phpmyadmin.png" />
+  <img alt="PHPMyAdmin" title="PHPMyAdmin" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/phpmyadmin.png" />
   <img alt="Draw.io" title="Draw.io" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/drawio.png" />
   <img alt="DBDiagram.io" title="DBDiagram.io" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/dbdiagram.ico" />
   <img alt="Obsidian" title="Obsidian" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/obsidian.png" />
   <img alt="Trello" title="Trello" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg" />
   <img alt="Canva" title="Canva" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" />
-  <img alt="Prezi" title="Prezi" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/prezi.svg" />
+  <img alt="Prezi" title="Prezi" width="44px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/prezi.svg" />
   <img alt="Excalidraw" title="Excalidraw" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/excalidraw.png" />
   <img alt="Milanote" title="Milanote" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/milanote.png" />
   <img alt="Arduino" title="Arduino" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-original.svg" />
   <img alt="Raspberry" title="Raspberry" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
   <img alt="Mindmaps" title="Mindmaps" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/mindmaps.png" />
-  <img alt="SEO" title="SEO" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/seo.png" />
-  <img alt="Accessibility" title="Accessibility" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/accessibility.png" />
   <img alt="JSON" title="JSON" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
   <img alt="XML" title="XML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
   <img alt="YAML" title="YAML" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/yaml.png" />
+  <img alt="SEO" title="SEO" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/seo.png" />
+  <img alt="Accessibility" title="Accessibility" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/accessibility.png" />
   <img alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
   <img alt="Windows" title="Windows" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
   <img alt="WSL2" title="WSL2" width="55px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/wsl2.png" />
   <img alt="VsCode" title="VsCode" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" />
   <img alt="Visual Studio" title="Visual Studio" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" />
-  <img alt="Hostinger" title="Hostinger" width="26px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/hostinger.svg" />
-  <img alt="Planet Hoster" title="Planet Hoster" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/planethoster.png" />
+  <img alt="Hostinger" title="Hostinger" width="24px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/hostinger.svg" />
+  <img alt="Planet Hoster" title="Planet Hoster" width="60px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/planethoster.png" />
   <img alt="PowerPoint" title="PowerPoint" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/powerpoint.svg" />
   <img alt="Word" title="Word" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/word.svg" />
 </div>
