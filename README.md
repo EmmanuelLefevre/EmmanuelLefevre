@@ -92,7 +92,7 @@
   <img alt="JQuery" title="JQuery" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jquery/jquery-plain-wordmark.svg" />
   <img alt="Stack Overflow" title="Stack Overflow" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/stackoverflow/stackoverflow-original.svg" />
   <img alt="PHPMyAdmin" title="PHPMyAdmin" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/phpmyadmin.png" />
-  <img alt="MongoDB Compass" title="MongoDB Compass" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/compass.svg" />
+  <img alt="MongoDB Compass" title="MongoDB Compass" width="45px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/compass.svg" />
   <img alt="Draw.io" title="Draw.io" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/drawio.png" />
   <img alt="DBDiagram.io" title="DBDiagram.io" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/dbdiagram.ico" />
   <img alt="Obsidian" title="Obsidian" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/obsidian.png" />
