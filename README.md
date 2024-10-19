@@ -169,7 +169,7 @@
 <br>
 
 <div align="center">
-  <h2 style="color:blue;">💻 Top Repositories 💻</h2>
+  <h2><span style="color:blue;">💻 Top Repositories 💻</span></h2>
 </div>
 
 <div width="100%" align="center">
