@@ -7,7 +7,7 @@
 <br>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Seaweed+Script&size=48&duration=4000&pause=1000&color=95CB11&center=true&vCenter=true&width=550&height=70&lines=Hi+There&nbsp;!+👋;+I'm+Emmanuel+Lefevre&nbsp;!;" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Seaweed+Script&size=48&duration=4000&pause=1000&color=9745f5&center=true&vCenter=true&width=550&height=70&lines=Hello+There&nbsp;!+👋;+I'm+Emmanuel+Lefevre&nbsp;!;" />
 </h1>
 
 <h3 align="center">Application and Web Developer</h3>
@@ -152,19 +152,18 @@
   <h2>📊  Stats  📊</h2>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=95CB11&border=95CB11)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=e5289e&border=9745f5)](https://git.io/streak-stats)<br>
 
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuellefevre&langs_count=12&layout=compact&theme=default&border_radius=15&border_color=95cb11&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Top%20%Languages&title_color=95cb11" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuellefevre&langs_count=12&layout=compact&theme=default&border_radius=15&border_color=9745f5&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Top%20%Languages&title_color=9745f5" alt="Top Languages" />
 </div>
 
 <br>
 
 <div align="center">
-  <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=EmmanuelLefevre&bg_color=FFFFFF&color=95CB11&title_color=95CB11&line=95CB11&point=FF7F00&custom_title=Contribution%20Graph&radius=15&days=30&grid=true&hide_border=true&area_color=95CB11&area=true" /></a>
+  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=EmmanuelLefevre&bg_color=FFFFFF&color=9745f5&title_color=9745f5&line=9745f5&point=e5289e&custom_title=Contribution%20Graph&radius=15&days=30&grid=true&hide_border=true&area_color=9745f5&area=true" /></a>
 </div>
 
 <br>
@@ -175,10 +174,10 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/EmmanuelLefevre/EasyGarden" title="EasyGarden">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=EasyGarden&theme=default&bg_color=FFFFFF&text_color=696969&title_color=FF7F00&show_icons=true&icon_color=95CB11&border_color=95CB11&border_radius=15" />
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=EasyGarden&theme=default&bg_color=FFFFFF&text_color=696969&title_color=9745f5&show_icons=true&icon_color=e5289e&border_color=9745f5&border_radius=15" />
   </a>
   <a align="right" href="https://github.com/EmmanuelLefevre/ArtiWave" title="ArtiWave">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=ArtiWave&theme=default&bg_color=FFFFFF&text_color=696969&title_color=FF7F00&show_icons=true&icon_color=95CB11&border_color=95CB11&border_radius=15" />
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=ArtiWave&theme=default&bg_color=FFFFFF&text_color=696969&title_color=9745f5&show_icons=true&icon_color=e5289e&border_color=9745f5&border_radius=15" />
   </a>
 </div>
 
