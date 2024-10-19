@@ -152,7 +152,7 @@
   <h2>📊  Stats  📊</h2>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=FF1493&border=81007F)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=fe06a1&border=81007F)](https://git.io/streak-stats)<br>
 
 <br>
 
@@ -163,7 +163,7 @@
 <br>
 
 <div align="center">
-  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=EmmanuelLefevre&bg_color=FFFFFF&color=81007F&title_color=81007F&line=81007F&point=FF1493&custom_title=Contribution%20Graph&radius=15&days=30&grid=true&hide_border=true&area_color=81007F&area=true" /></a>
+  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=EmmanuelLefevre&bg_color=FFFFFF&color=81007F&title_color=81007F&line=81007F&point=fe06a1&custom_title=Contribution%20Graph&radius=15&days=30&grid=true&hide_border=true&area_color=81007F&area=true" /></a>
 </div>
 
 <br>
@@ -174,10 +174,10 @@
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/EmmanuelLefevre/EasyGarden" title="EasyGarden">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=EasyGarden&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=FF1493&border_color=81007F&border_radius=15" />
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=EasyGarden&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
   </a>
   <a align="right" href="https://github.com/EmmanuelLefevre/ArtiWave" title="ArtiWave">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=ArtiWave&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=FF1493&border_color=81007F&border_radius=15" />
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=ArtiWave&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
   </a>
 </div>
 
