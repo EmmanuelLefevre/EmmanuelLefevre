@@ -17,7 +17,8 @@
 I have experience in building sites and web applications mainly in Angular/Symfony, I have also developed skills in home automation. I enjoy building side projects in my free time.
 
 <div align="left">
-  :art: https://www.emmanuellefevre.com/ :art:  
+  :art: https://www.emmanuellefevre.com/ :art:
+  <br>
   📫 emmanuellefevre@protonmail.com 📫
 </div>
 
