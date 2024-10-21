@@ -19,7 +19,7 @@ I have experience in building sites and web applications mainly in Angular/Symfo
 <div align="left">
   :art: https://www.emmanuellefevre.com/ :art:
 
-  <br/>
+  <br>
 
   📫 emmanuellefevre@protonmail.com 📫
 </div>
