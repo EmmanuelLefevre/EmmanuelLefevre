@@ -11,9 +11,7 @@
 </h1>
 
 <h3 align="center">Application and Web Developer</h3>
-
 <br/>
-
 <h4 align="center">🔥 I'm a full-stack developer from France 🔥</h4>
 
 I have experience in building sites and web applications mainly in Angular/Symfony, I have also developed skills in home automation. I enjoy building side projects in my free time.
