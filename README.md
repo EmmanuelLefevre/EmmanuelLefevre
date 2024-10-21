@@ -10,9 +10,9 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Seaweed+Script&size=48&duration=4000&pause=1000&color=81007F&center=true&vCenter=true&width=550&height=70&lines=Hello+There&nbsp;!+👋;+I'm+Emmanuel+Lefevre&nbsp;!;" />
 </h1>
 
-<h3 align="center">Application and Web Developer</h3>
+<h3 align="center">🔥 I'm a full-stack apllication and web developer from France 🔥</h3>
+
 <br/>
-<h4 align="center">🔥 I'm a full-stack developer from France 🔥</h4>
 
 I have experience in building sites and web applications mainly in Angular/Symfony, I have also developed skills in home automation. I enjoy building side projects in my free time.
 
