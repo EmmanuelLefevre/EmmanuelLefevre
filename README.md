@@ -14,7 +14,7 @@
 
 <br/>
 
-🔥 I'm a full-stack developer from France 🔥
+🔥 I'm a full-stack developer from France 🔥  
 I have experience in building sites and web applications mainly in Angular/Symfony, I have also developed skills in home automation. I enjoy building side projects in my free time.
 
 <div align="left">
