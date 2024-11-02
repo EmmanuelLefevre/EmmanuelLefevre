@@ -95,7 +95,7 @@ I have experience in building sites and web applications mainly in Angular/Symfo
   <img alt="ECMA Script 8" title="ECMA Script 8" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/es8.png" />
   <img alt="Jira" title="Jira" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
   <img alt="Mantis" title="Mantis" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/mantis.png" />
-  <img alt="Redmine" title="Redmine" width="35px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/redmine.png" />
+  <img alt="Redmine" title="Redmine" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/redmine.png" />
   <img alt="Tailwind" title="Tailwind" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" />
   <img alt="Angular Material" title="Angular Material" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/angular_material.png" />
   <img alt="Material UI" title="Material UI" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-original.svg" />
