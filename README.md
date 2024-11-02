@@ -120,7 +120,7 @@ I have experience in building sites and web applications mainly in Angular/Symfo
   <img alt="Winget" title="Winget" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/winget.png" />
   <img alt="Yarn" title="Yarn" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/yarn.png" />
   <img alt="Scoop" title="Scoop" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/scoop.png" />
-  <img alt="Homebrew" title="Homebrew" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/homebrew.png" />
+  <img alt="Homebrew" title="Homebrew" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/homebrew.png" />
   <img alt="SEO" title="SEO" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/seo.png" />
   <img alt="Accessibility" title="Accessibility" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/Settings/main/GitHubProfileIcons/accessibility.png" />
   <img alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
