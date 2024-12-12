@@ -184,7 +184,7 @@ I have experience in building sites and web applications mainly in Angular/Symfo
   <h2>📊  Stats  📊</h2>
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=fe06a1&border=81007F)](https://git.io/streak-stats)<br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=FE06A1&border=81007F)](https://git.io/streak-stats)<br>
 
 <br>
 
