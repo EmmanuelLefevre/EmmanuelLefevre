@@ -34,6 +34,7 @@ I have experience in building sites and web applications mainly in Angular/Symfo
   <img alt="Symfony" title="Symfony" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" />
   <img alt="Dotnet Core" title="Dotnet Core" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img alt="Express" title="Express" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/GitHubProfileIcons/main/express.png" />
+  <img alt="Chrome Extension" title="Chrome Extension" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/chrome_extension.png" />
   <img alt="NodeJs" title="NodeJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
   <img alt="Docker" title="Docker" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" />
   <img alt="Azure Devops" title="Azure Devops" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuredevops/azuredevops-original.svg" />
@@ -119,6 +120,9 @@ I have experience in building sites and web applications mainly in Angular/Symfo
   <img alt="Tuya" title="Tuya" width="28px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/GitHubProfileIcons/main/tuya.png" />
   <img alt="Ollama" title="Ollama" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/GitHubProfileIcons/main/ollama.png" />
   <img alt="Chat_GPT" title="Chat_GPT" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/GitHubProfileIcons/main/chat_gpt.png" />
+  <img alt="Bolt" title="Bolt" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/GitHubProfileIcons/main/bolt.png" />
+  <img alt="GitHub Copilot" title="GitHub Copilot" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/GitHubProfileIcons/main/github_copilot.png" />
+   <img alt="Beautiful Soup" title="Beautiful Soup" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/GitHubProfileIcons/main/beautiful_soup.png" />
   <img alt="JSON" title="JSON" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
   <img alt="XML" title="XML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
   <img alt="YAML" title="YAML" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/GitHubProfileIcons/main/yaml.png" />
