@@ -195,11 +195,11 @@ I have experience in building sites and web applications mainly in Angular/Symfo
   <h2>📊  Stats  📊</h2>
 </div>
 
-<div align="center">
-  <img height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=FE06A1&border=81007F" alt="GitHub Streak" />
-</div><br>
+<br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=FE06A1&border=81007F)](https://git.io/streak-stats)<br>
+<div align="center">
+  <img align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=FE06A1&border=81007F" alt="GitHub Streak" />
+</div>
 
 <br>
 
