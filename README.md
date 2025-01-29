@@ -198,7 +198,7 @@ I have experience in building sites and web applications mainly in Angular/Symfo
 <br>
 
 <div align="center">
-  <img width=600 height=160 align="center" src="https://github-readme-streak-stats-eight.vercel.app/?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=FE06A1&border=81007F" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app/?user=EmmanuelLefevre&border_radius=15&date_format=j%20M%5B%20Y%5D&card_width=1000&sideLabels=FE06A1&border=81007F" alt="GitHub Streak" />
 </div>
 
 <br>
