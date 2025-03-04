@@ -33,6 +33,7 @@ I have experience in building sites and web applications mainly in Angular/Symfo
   <img alt="Angular" title="Angular" width="34px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
   <img alt="Dotnet Core" title="Dotnet Core" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" />
   <img alt="Symfony" title="Symfony" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/symfony/symfony-original.svg" />
+  <img alt="NextJS" title="NextJS" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/GitHubProfileIcons/main/nextjs.png" />
   <img alt="Express" title="Express" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/GitHubProfileIcons/main/express.png" />
   <img alt="Chrome Extension" title="Chrome Extension" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/GitHubProfileIcons/main/chrome_extension.png" />
   <img alt="NodeJs" title="NodeJs" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" />
