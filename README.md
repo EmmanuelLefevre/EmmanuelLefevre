@@ -21,9 +21,9 @@ I have experience in building sites and web applications mainly in Angular/Symfo
   <br>
   🤖 https://www.cabinet-curiosites.fr/ 🤖
   <br>
-  📫 emmanuellefevre@protonmail.com 📫
-    <br>
   ☄️ https://astrofall.vercel.app/ ☄️
+  <br>
+  📫 emmanuellefevre@protonmail.com 📫
 </div>
 
 <br>
