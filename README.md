@@ -123,10 +123,6 @@ I have experience in building sites and web applications mainly in Angular/Symfo
   <img alt="Raspberry" title="Raspberry" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/raspberrypi/raspberrypi-original.svg" />
   <img alt="Lora" title="Lora" width="33px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/GitHubProfileIcons/main/lora.png" />
   <img alt="Tuya" title="Tuya" width="28px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/GitHubProfileIcons/main/tuya.png" />
-  <img alt="Ollama" title="Ollama" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/GitHubProfileIcons/main/ollama.png" />
-  <img alt="OpenAI" title="OpenAI" width="25px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/GitHubProfileIcons/main/open_ai.png" />
-  <img alt="Bolt" title="Bolt" width="29px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/GitHubProfileIcons/main/bolt.png" />
-  <img alt="GitHub Copilot" title="GitHub Copilot" width="30px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/GitHubProfileIcons/main/github_copilot.png" />
   <img alt="Beautiful Soup" title="Beautiful Soup" width="34px" style="padding-right:10px;" src="https://raw.githubusercontent.com/EmmanuelLefevre/GitHubProfileIcons/main/beautiful_soup.png" />
   <img alt="JSON" title="JSON" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" />
   <img alt="XML" title="XML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" />
