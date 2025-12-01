@@ -1,24 +1,25 @@
-name: workflows
+name: Generate Snake
 
 on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
   push:
     branches:
-      - main
-  workflow_dispatch:
-  schedule:
-    # Schedule for Snake (every 12 hours) and README update (every day at midnight)
-    - cron: "0 */12 * * *"
-    - cron: '0 0 * * *'
+    - main
 
 jobs:
   snake:
     name: Snake
+    permissions:
+      contents: write
     runs-on: ubuntu-latest
+
     steps:
-      - name: Clone repo
+      - name: Checkout repo
         uses: actions/checkout@v3
 
-      - name: Generate the snake files in './dist/'
+      - name: Generate snake files
         uses: Platane/snk@v3
         id: snake-gif
         with:
@@ -33,7 +34,7 @@ jobs:
       - name: Show build status
         run: git status
 
-      - name: Push new files to the output branch
+      - name: Push new files to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
@@ -41,43 +42,3 @@ jobs:
           commit_message: Update snake animations
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-
-  readme:
-    name: README
-    runs-on: ubuntu-latest
-    steps:
-      - name: Check out repo
-        uses: actions/checkout@v2
-
-      - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: 3.8
-
-      - uses: actions/cache@v3
-        name: Configure pip caching
-        with:
-          path: ~/.cache/pip
-          key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
-          restore-keys: |
-            ${{ runner.os }}-pip-
-
-      - name: Install Python dependencies
-        run: |
-          python -m pip install -r requirements.txt
-
-      - name: Update README
-        run: |
-          python build_readme.py
-          cat README.md
-
-      - name: Commit and push if changed
-        env:
-          GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
-        run: |
-          git diff
-          git config --global user.email "waiasiaa@protonmail.com"
-          git config --global user.name ${{ github.repository_owner }}
-          git add -A
-          git commit -m "Updated content" || exit 0
-          git push
