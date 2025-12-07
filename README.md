@@ -158,18 +158,9 @@ I have experience in building sites and web applications mainly in Angular/Symfo
 <br>
 
 <!-- TOP LANGUAGES -->
-<p align="center">
-  <a href="https://github.com/emmanuellefevre">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emmanuellefevre&langs_count=12&layout=compact&langs_count=14&theme=onedark&include_all_commits=true&count_private=true&hide_border=true" />
-  </a>
-</p>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelLefevre&exclude_forks=true&langs_count=12&layout=compact&theme=default&border_radius=15&border_color=81007F&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Top%20Languages&title_color=81007F" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emmanuellefevre&langs_count=12&layout=compact&theme=default&border_radius=15&border_color=81007F&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Top%20Languages&title_color=81007F" alt="Top Languages" />
 </div>
-<!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuellefevre&langs_count=12&layout=compact&theme=default&border_radius=15&border_color=81007F&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Top%20%Languages&title_color=81007F" alt="Top Languages" />
-</div> -->
-
 
 <br>
 
