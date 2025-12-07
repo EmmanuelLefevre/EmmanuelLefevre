@@ -159,10 +159,10 @@ I have experience in building sites and web applications mainly in Angular/Symfo
 
 <!-- TOP LANGUAGES -->
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emmanuellefevre&langs_count=12&layout=compact&theme=default&border_radius=15&border_color=81007F&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Top%20Languages&title_color=81007F" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emmanuellefevre&langs_count=16&layout=compact&theme=default&border_radius=15&border_color=81007F&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Top%20Languages&title_color=81007F" alt="Top Languages" />
 </div>
 <!-- <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuellefevre&langs_count=12&layout=compact&theme=default&border_radius=15&border_color=81007F&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Top%20%Languages&title_color=81007F" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuellefevre&langs_count=16&layout=compact&theme=default&border_radius=15&border_color=81007F&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Top%20%Languages&title_color=81007F" alt="Top Languages" />
 </div> -->
 
 
@@ -203,3 +203,5 @@ I have experience in building sites and web applications mainly in Angular/Symfo
 <h4 align="center">
   <a href="https://github.com/EmmanuelLefevre?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
