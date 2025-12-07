@@ -166,9 +166,8 @@ I have experience in building sites and web applications mainly in Angular/Symfo
 
 <!-- CONTRIBUTION GRAPH -->
 <div align="center">
-  <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=EmmanuelLefevre&bg_color=FFFFFF&color=81007F&title_color=81007F&line=81007F&point=fe06a1&custom_title=Contribution%20Graph&radius=15&days=30&grid=true&hide_border=true&area_color=81007F&area=true" /></a>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=emmanuellefevre&langs_count=12&layout=compact&theme=default&border_radius=15&border_color=81007F&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Top%20Languages&title_color=81007F" alt="Top Languages" />
 </div>
-
 <br>
 
 <div align="center">
