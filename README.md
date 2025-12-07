@@ -137,11 +137,13 @@ I have experience in building sites and web applications mainly in Angular/Symfo
 
 <br>
 
+<!-- SNAKE CONTRIBUTION -->
 <div align="center">
   <h2>🎯  Contributions  🎯</h2>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EmmanuelLefevre/EmmanuelLefevre/output/github-contribution-grid-snake.svg" />
 </div>
 
+<!-- STATS / STREAK -->
 <div align="center">
   <h2>📊  Stats  📊</h2>
 </div>
@@ -155,12 +157,18 @@ I have experience in building sites and web applications mainly in Angular/Symfo
 <br>
 <br>
 
+<!-- TOP LANGUAGES -->
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelLefevre&exclude_forks=true&langs_count=12&layout=compact&theme=default&border_radius=15&border_color=81007F&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Top%20Languages&title_color=81007F" alt="Top Languages" />
 </div>
+<!-- <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuellefevre&langs_count=12&layout=compact&theme=default&border_radius=15&border_color=81007F&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Top%20%Languages&title_color=81007F" alt="Top Languages" />
+</div> -->
+
 
 <br>
 
+<!-- CONTRIBUTION GRAPH -->
 <div align="center">
   <img alt="DenverCoder1's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=EmmanuelLefevre&bg_color=FFFFFF&color=81007F&title_color=81007F&line=81007F&point=fe06a1&custom_title=Contribution%20Graph&radius=15&days=30&grid=true&hide_border=true&area_color=81007F&area=true" /></a>
 </div>
@@ -171,6 +179,7 @@ I have experience in building sites and web applications mainly in Angular/Symfo
   <h2>💻 Top Repositories 💻</h2>
 </div>
 
+<!-- TOP REPOSITORIES -->
 <p align="center">
   <a href="https://github.com/EmmanuelLefevre/EasyGarden">
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=EasyGarden&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" alt="EasyGarden" />
@@ -180,6 +189,14 @@ I have experience in building sites and web applications mainly in Angular/Symfo
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=AstroFall&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" alt="AstroFall" />
   </a>
 </p>
+<!-- <div width="100%" align="center">
+  <a align="left" href="https://github.com/EmmanuelLefevre/EasyGarden" title="EasyGarden">
+    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=EasyGarden&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
+  </a>
+  <a align="right" href="https://github.com/EmmanuelLefevre/AstroFall" title="AstroFall">
+    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=AstroFall&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
+  </a>
+</div> -->
 
 <br/><br/><br/><br/><br/><br/>
 
