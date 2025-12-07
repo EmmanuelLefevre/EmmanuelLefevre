@@ -156,7 +156,7 @@ I have experience in building sites and web applications mainly in Angular/Symfo
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuellefevre&langs_count=12&layout=compact&theme=default&border_radius=15&border_color=81007F&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Top%20%Languages&title_color=81007F" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmmanuelLefevre&exclude_forks=true&langs_count=12&layout=compact&theme=default&border_radius=15&border_color=81007F&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Top%20Languages&title_color=81007F" alt="Top Languages" />
 </div>
 
 <br>
@@ -171,14 +171,15 @@ I have experience in building sites and web applications mainly in Angular/Symfo
   <h2>💻 Top Repositories 💻</h2>
 </div>
 
-<div width="100%" align="center">
-  <a align="left" href="https://github.com/EmmanuelLefevre/EasyGarden" title="EasyGarden">
-    <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=EasyGarden&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
+<p align="center">
+  <a href="https://github.com/EmmanuelLefevre/EasyGarden">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=EasyGarden&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" alt="EasyGarden" />
   </a>
-  <a align="right" href="https://github.com/EmmanuelLefevre/AstroFall" title="AstroFall">
-    <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=AstroFall&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
+  &nbsp; &nbsp;
+  <a href="https://github.com/EmmanuelLefevre/AstroFall">
+    <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=AstroFall&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" alt="AstroFall" />
   </a>
-</div>
+</p>
 
 <br/><br/><br/><br/><br/><br/>
 
