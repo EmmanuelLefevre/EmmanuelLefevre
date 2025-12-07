@@ -203,5 +203,3 @@ I have experience in building sites and web applications mainly in Angular/Symfo
 <h4 align="center">
   <a href="https://github.com/EmmanuelLefevre?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
