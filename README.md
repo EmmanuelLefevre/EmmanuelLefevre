@@ -189,6 +189,7 @@ I have experience in building sites and web applications mainly in Angular/Symfo
     <img height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=AstroFall&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" alt="AstroFall" />
   </a>
 </p>
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=emmanuellefevre&repo=github-readme-stats)](https://github.com/emmanuellefevre/github-readme-stats)
 <!-- <div width="100%" align="center">
   <a align="left" href="https://github.com/EmmanuelLefevre/EasyGarden" title="EasyGarden">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=EasyGarden&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
