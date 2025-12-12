@@ -29,7 +29,9 @@ Passionate about software development, I design sustainable solutions by placing
 
 I am committed to delivering robust, maintainable, and scalable software solutions. To achieve this, I aim for strict alignment with business needs, prioritizing a clear separation of responsibilities.
 
-## Architecture & Development
+<img src="https://img.shields.io/badge/🏗️-Architecture_%26_Development-81007F?style=for-the-badge&labelColor=dadde1">
+
+## 
 
 - **Design :**  
 I place the business domain at the heart of the application. Using Hexagonal Architecture, I guarantee system decoupling and implement Dependency Inversion to ensure strong isolation from the technical and infrastructure layers.
