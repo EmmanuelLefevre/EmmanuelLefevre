@@ -18,6 +18,7 @@
 </div>
 
 <br>
+<br>
 
 <img src="https://img.shields.io/badge/❓-Who%20i%20am-81007F?style=for-the-badge&labelColor=dadde1">
 
@@ -75,6 +76,8 @@ I explore the synergies between the web and hardware through the design of embed
 
 <div align="left">☄️ https://astrofall.vercel.app/ ☄️</div>
 
+<br>
+
 <img src="https://placehold.co/1000x4/81007F/81007F.png" width="100%" height="1">
 
 <br>
@@ -82,6 +85,8 @@ I explore the synergies between the web and hardware through the design of embed
 <img src="https://img.shields.io/badge/📫-Contact-81007F?style=for-the-badge&labelColor=dadde1">
 
 emmanuellefevre@protonmail.com
+
+<br>
 
 <div align="center">
   <img src="https://placehold.co/600x5/81007F/81007F.png" width="70%" height="2">
