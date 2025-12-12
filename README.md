@@ -51,22 +51,29 @@ Beyond application code, I develop tools to eliminate repetitive manual tasks an
 - **IoT and Home Automation :**  
 I explore the synergies between the web and hardware through the design of embedded systems (Parks & Gardens Equipment Management). I implement a distributed architecture combining data collection (Arduino), a central server (Raspberry Pi) and a complete web interface for control and visualization.
 
+## 
+
 <br>
 
 <img src="https://img.shields.io/badge/💼-Works-81007F?style=for-the-badge&labelColor=dadde1">
 
-<div align="left">
-  :art: https://www.emmanuellefevre.com/ :art:
-  <br>
-  🤖 https://www.cabinet-curiosites.fr/ 🤖
-  <br>
-  ☄️ https://astrofall.vercel.app/ ☄️
-  <br>
-  📫 emmanuellefevre@protonmail.com 📫
-</div>
+<div align="left">:art: https://www.emmanuellefevre.com/ :art:</div>
+
+<div align="left">🤖 https://www.cabinet-curiosites.fr/ 🤖</div>
+
+<div align="left">☄️ https://astrofall.vercel.app/ ☄️</div>
+
+## 
 
 <br>
+
+<img src="https://img.shields.io/badge/📫-Contact-81007F?style=for-the-badge&labelColor=dadde1">
+
+emmanuellefevre@protonmail.com
+
 <br>
+
+## 
 
 <div align="center">
   <h2>🧰  Tools  🧰</h2>
