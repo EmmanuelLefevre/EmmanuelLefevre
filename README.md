@@ -29,6 +29,8 @@ Passionate about software development, I design sustainable solutions by placing
 
 I am committed to delivering robust, maintainable, and scalable software solutions. To achieve this, I aim for strict alignment with business needs, prioritizing a clear separation of responsibilities.
 
+<br>
+
 <img src="https://img.shields.io/badge/🏗️-Architecture_%26_Development-FB8E06?style=for-the-badge&labelColor=dadde1">
 
 - **Design :**  
