@@ -18,6 +18,7 @@
 Passionate about software development, I design sustainable solutions by placing code quality at the heart of my approach. Proponent of Clean Code and SOLID principles, I have evolved my expertise from traditional architectures to more robust, modern models such as Hexagonal Architecture and Clean Architecture, ensuring applications where business logic reigns supreme, independent of frameworks and technical details.
 
 <h3 style="color:#81007F;">Skills</h3>
+![Skills](https://img.shields.io/badge/Skills-81007F?style=for-the-badge)
 ## Skills
 
 I am committed to delivering robust, maintainable, and scalable software solutions. To achieve this, I aim for strict alignment with business needs, prioritizing a clear separation of responsibilities.
