@@ -11,7 +11,7 @@
 </h1>
 
 <h3 align="center">🔥 I'm a Fullstack application and web developer from France 🔥</h3>
-<h3 align="center">🧰 My expertise is mainly focused in Angular/.NET 🧰</h3>
+<h4 align="center">🧰 My expertise is mainly focused in Angular/.NET 🧰</h4>
 
 <br/>
 
