@@ -25,7 +25,7 @@ Passionate about software development, I design sustainable solutions by placing
 
 <br>
 
-<img src="https://img.shields.io/badge/⚡-Skills-81007F?style=for-the-badge&labelColor=dadde1">
+<img src="https://img.shields.io/badge/💪-Skills-81007F?style=for-the-badge&labelColor=dadde1">
 
 I am committed to delivering robust, maintainable, and scalable software solutions. To achieve this, I aim for strict alignment with business needs, prioritizing a clear separation of responsibilities.
 
@@ -53,6 +53,8 @@ I explore the synergies between the web and hardware through the design of embed
 
 <br>
 
+<img src="https://img.shields.io/badge/💼-Works-81007F?style=for-the-badge&labelColor=dadde1">
+
 <div align="left">
   :art: https://www.emmanuellefevre.com/ :art:
   <br>
@@ -63,6 +65,7 @@ I explore the synergies between the web and hardware through the design of embed
   📫 emmanuellefevre@protonmail.com 📫
 </div>
 
+<br>
 <br>
 
 <div align="center">
