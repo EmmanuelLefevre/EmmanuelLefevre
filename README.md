@@ -33,6 +33,10 @@ I am committed to delivering robust, maintainable, and scalable software solutio
 
 <br>
 
+<div align="left">
+  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="60%" height="2">
+</div>
+
 <img src="https://img.shields.io/badge/🏗️-Architecture_%26_Development-FB8E06?style=for-the-badge&labelColor=dadde1">
 
 - **Design :**  
@@ -45,6 +49,10 @@ On the client side, I design responsive interfaces based on the MVVM pattern for
 - **Lifecycle :**  
 I secure the software lifecycle using an industrial approach. From requirements analysis to production deployment, I integrate automation (CI/CD) and a comprehensive testing pyramid (unit, integration, end-to-end) from the project's inception to guarantee smooth and reliable deliveries.
 
+<div align="left">
+  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="60%" height="2">
+</div>
+
 <img src="https://img.shields.io/badge/💡-Innovation_%26_Cross--Functional_Projects-FB8E06?style=for-the-badge&labelColor=dadde1">
 
 - **Scripting :**  
@@ -53,7 +61,7 @@ Beyond application code, I develop tools to eliminate repetitive manual tasks an
 - **IoT and Home Automation :**  
 I explore the synergies between the web and hardware through the design of embedded systems (Parks & Gardens Equipment Management). I implement a distributed architecture combining data collection (Arduino), a central server (Raspberry Pi) and a complete web interface for control and visualization.
 
-<img src="https://placehold.co/1000x4/81007F/81007F.png" width="100%" height="2">
+<img src="https://placehold.co/1000x4/81007F/81007F.png" width="100%" height="1">
 
 <br>
 
@@ -65,7 +73,7 @@ I explore the synergies between the web and hardware through the design of embed
 
 <div align="left">☄️ https://astrofall.vercel.app/ ☄️</div>
 
-<img src="https://placehold.co/1000x4/81007F/81007F.png" width="100%" height="2">
+<img src="https://placehold.co/1000x4/81007F/81007F.png" width="100%" height="1">
 
 <br>
 
@@ -74,7 +82,7 @@ I explore the synergies between the web and hardware through the design of embed
 emmanuellefevre@protonmail.com
 
 <div align="center">
-  <img src="https://placehold.co/600x5/81007F/81007F.png" width="60%" height="4">
+  <img src="https://placehold.co/600x5/81007F/81007F.png" width="60%" height="2">
 </div>
 
 <div align="center">
