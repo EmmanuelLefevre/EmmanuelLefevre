@@ -88,14 +88,8 @@ emmanuellefevre@protonmail.com
 
 <br>
 
-<div align="center">
-  <img src="https://placehold.co/600x5/81007F/81007F.png" width="70%" height="4">
-</div>
-
-<br>
-
 <h2 align="center">
-  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="50%" height="2">
+  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="50%" height="3">
   <br>
   🧰 Tools 🧰
 </h2>
@@ -183,9 +177,11 @@ emmanuellefevre@protonmail.com
 
 <br>
 
-<div align="center">
-  <h2>📚  Languages  📚</h2>
-</div>
+<h2 align="center">
+  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="50%" height="3">
+  <br>
+  📚  Languages  📚
+</h2>
 <div>
   <img alt="Typescript" title="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
   <img alt="JavaScript" title="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
@@ -206,15 +202,19 @@ emmanuellefevre@protonmail.com
 <br>
 
 <!-- SNAKE CONTRIBUTION -->
-<div align="center">
-  <h2>🎯  Contributions  🎯</h2>
+<h2 align="center">
+  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="50%" height="3">
+  <br>
+  🎯  Contributions  🎯
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EmmanuelLefevre/EmmanuelLefevre/output/github-contribution-grid-snake.svg" />
-</div>
+</h2>
 
 <!-- STATS / STREAK -->
-<div align="center">
-  <h2>📊  Stats  📊</h2>
-</div>
+<h2 align="center">
+  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="50%" height="3">
+  <br>
+  📊  Stats  📊
+</h2>
 
 <br>
 
@@ -243,9 +243,11 @@ emmanuellefevre@protonmail.com
 
 <br>
 
-<div align="center">
-  <h2>💻 Top Repositories 💻</h2>
-</div>
+<h2 align="center">
+  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="50%" height="3">
+  <br>
+  💻 Top Repositories 💻
+</h2>
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/EmmanuelLefevre/EasyGarden" title="EasyGarden">
