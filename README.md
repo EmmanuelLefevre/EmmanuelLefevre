@@ -14,7 +14,7 @@
 <h4 align="center">🧰 Mainly focused in Angular/.NET 🧰</h4>
 
 <div align="center">
-  <img src="https://placehold.co/600x5/81007F/81007F.png" width="70%" height="2">
+  <img src="https://placehold.co/600x5/81007F/81007F.png" width="70%" height="3">
 </div>
 
 <br>
