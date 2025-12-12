@@ -19,7 +19,11 @@ Passionate about software development, I design sustainable solutions by placing
 
 ![Skills](https://img.shields.io/badge/Skills-81007F?style=for-the-badge)
 
-<img src="https://img.shields.io/badge/⚡_Skills-81007F?style=for-the-badge" height="50" width="34px" alt="Skills" title="Skills">
+<img src="https://img.shields.io/badge/⚡_Skills-81007F?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/⚡_Skills-81007F?style=for-the-badge" height="50">
+
+<img src="https://img.shields.io/badge/⚡-Skills-81007F?style=for-the-badge&labelColor=white" height="50">
 
 ## 
 
