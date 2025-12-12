@@ -92,9 +92,12 @@ emmanuellefevre@protonmail.com
   <img src="https://placehold.co/600x5/81007F/81007F.png" width="70%" height="4">
 </div>
 
+<br>
+<br>
+
 <div align="center">
   <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="50%" height="3">
-  <h2>🧰  Tools  🧰</h2>
+  <h3>🧰  Tools  🧰</h3>
 </div>
 <div>
   <img alt="Angular" title="Angular" width="34px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
