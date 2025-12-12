@@ -89,10 +89,12 @@ emmanuellefevre@protonmail.com
 <br>
 
 <h2 align="center">
-  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="50%" height="3">
+  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="70%" height="3">
   <br>
   🧰 Tools 🧰
 </h2>
+
+<br>
 
 <div>
   <img alt="Angular" title="Angular" width="34px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
@@ -179,10 +181,12 @@ emmanuellefevre@protonmail.com
 <br>
 
 <h2 align="center">
-  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="50%" height="3">
+  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="70%" height="3">
   <br>
   📚  Languages  📚
 </h2>
+
+<br>
 
 <div>
   <img alt="Typescript" title="Typescript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
@@ -205,7 +209,7 @@ emmanuellefevre@protonmail.com
 
 <!-- SNAKE CONTRIBUTION -->
 <h2 align="center">
-  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="50%" height="3">
+  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="70%" height="3">
   <br>
   🎯  Contributions  🎯
 </h2>
@@ -213,7 +217,7 @@ emmanuellefevre@protonmail.com
 
 <!-- STATS / STREAK -->
 <h2 align="center">
-  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="50%" height="4">
+  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="70%" height="4">
   <br>
   📊  Stats  📊
 </h2>
@@ -246,7 +250,7 @@ emmanuellefevre@protonmail.com
 <br>
 
 <h2 align="center">
-  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="50%" height="3">
+  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="70%" height="3">
   <br>
   💻 Top Repositories 💻
 </h2>
