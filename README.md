@@ -93,10 +93,9 @@ emmanuellefevre@protonmail.com
 </div>
 
 <br>
-<br>
 
 <h2 align="center">
-  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="50%" height="3">
+  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="50%" height="2">
   <br>
   🧰 Tools 🧰
 </h2>
