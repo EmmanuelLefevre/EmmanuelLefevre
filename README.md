@@ -10,7 +10,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Seaweed+Script&size=48&duration=4000&pause=1000&color=81007F&center=true&vCenter=true&width=550&height=70&lines=Hello+There&nbsp;!+👋;+I'm+Emmanuel+Lefevre&nbsp;!;" />
 </h1>
 
-<h3 align="center">🔥 I'm a full-stack application and web developer from France 🔥</h3>
+<h3 align="center">🔥 I'm a Fullstack application and web developer from France 🔥</h3>
+<h3 align="center">🧰 My expertise is mainly focused in Angular/.NET 🧰</h3>
 
 <br/>
 
