@@ -13,7 +13,9 @@
 <h3 align="center">🔥 Fullstack application and web developer from France 🔥</h3>
 <h4 align="center">🧰 Mainly focused in Angular/.NET 🧰</h4>
 
-## 
+<div align="center">
+  <img src="https://placehold.co/600x5/81007F/81007F.png" width="80%" height="2">
+</div>
 
 <br>
 
@@ -72,12 +74,8 @@ I explore the synergies between the web and hardware through the design of embed
 emmanuellefevre@protonmail.com
 
 <div align="center">
-  <img src="https://placehold.co/600x5/81007F/81007F.png" width="80%" style="border-radius: 50px;">
+  <img src="https://placehold.co/600x5/81007F/81007F.png" width="80%" height="2">
 </div>
-
-<img src="https://placehold.co/1000x4/81007F/81007F.png" width="100%" height="4">
-
-## 
 
 <div align="center">
   <h2>🧰  Tools  🧰</h2>
