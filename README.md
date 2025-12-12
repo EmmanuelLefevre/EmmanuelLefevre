@@ -48,7 +48,7 @@ I write clean code, designed to be inherently reliable and testable. I adhere to
 On the client side, I design responsive interfaces based on the MVVM pattern for a clear separation between the view and the application logic.
 
 - **Lifecycle :**  
-I secure the software lifecycle using an industrial approach. From requirements analysis to production deployment, I integrate automation (CI/CD) and a comprehensive testing pyramid (unit, integration, end-to-end) from the project's inception to guarantee smooth and reliable deliveries.
+I secure the software lifecycle using an industrial approach. From requirements analysis to production deployment, I integrate automation (CI/CD) and a comprehensive testing pyramid (unit, integration, E2E) from the project's inception to guarantee smooth and reliable deliveries.
 
 <div align="left">
   <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="80%" height="1">
@@ -59,7 +59,7 @@ I secure the software lifecycle using an industrial approach. From requirements 
 <img src="https://img.shields.io/badge/💡-Innovation_%26_Cross--Functional_Projects-FB8E06?style=for-the-badge&labelColor=dadde1">
 
 - **Scripting :**  
-Beyond application code, I develop tools to eliminate repetitive manual tasks and optimize development workflows. I leverage the versatility of Python (data processing, scraping, LLM integration via Ollama, etc.) and the cross-platform power of PowerShell Core to design useful CLIs that automate and streamline daily operations.
+Beyond application code, I develop tools to eliminate repetitive manual tasks and optimize development workflows. I leverage the versatility of Python (data processing, scraping, LLM integration via Ollama...) and the cross-platform power of PowerShell Core to design useful CLIs that automate and streamline daily operations.
 
 - **IoT and Home Automation :**  
 I explore the synergies between the web and hardware through the design of embedded systems (Parks & Gardens Equipment Management). I implement a distributed architecture combining data collection (Arduino), a central server (Raspberry Pi) and a complete web interface for control and visualization.
