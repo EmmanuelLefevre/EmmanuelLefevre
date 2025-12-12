@@ -93,7 +93,7 @@ emmanuellefevre@protonmail.com
 </div>
 
 <div align="center">
-  <h2>🧰  Tools  🧰</h2>
+  🧰  Tools  🧰
 </div>
 <div>
   <img alt="Angular" title="Angular" width="34px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
