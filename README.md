@@ -41,6 +41,7 @@ Beyond application code, I develop tools to eliminate repetitive manual tasks an
 - **IoT and Home Automation :**  
 I explore the synergies between the web and hardware through the design of embedded systems (Parks & Gardens Equipment Management). I implement a distributed architecture combining data collection (Arduino), a central server (Raspberry Pi) and a complete web interface for control and visualization.
 
+<br>
 
 <div align="left">
   :art: https://www.emmanuellefevre.com/ :art:
