@@ -11,11 +11,35 @@
 </h1>
 
 <h3 align="center">🔥 I'm a Fullstack application and web developer from France 🔥</h3>
-<h4 align="center">🧰 My expertise is mainly focused in Angular/.NET 🧰</h4>
+<h4 align="center">🧰 My skills are mainly focused in Angular/.NET 🧰</h4>
 
 <br/>
 
-I have experience in building sites and web applications mainly in Angular/.NET, I have also developed skills in home automation. I enjoy building side projects in my free time.
+Passionate about software development, I design sustainable solutions by placing code quality at the heart of my approach. A proponent of Clean Code and SOLID principles, I have evolved my expertise from traditional architectures to more robust models such as Hexagonal Architecture and Clean Architecture, ensuring applications where business logic reigns supreme, independent of frameworks and technical details.
+
+## Skills
+
+I am committed to delivering robust, maintainable, and scalable software solutions. To achieve this, I aim for strict alignment with business needs, prioritizing a clear separation of responsibilities.
+
+## Architecture & Development
+
+- **Design :**  
+I place the business domain at the heart of the application. Using Hexagonal Architecture, I guarantee system decoupling and implement Dependency Inversion to ensure strong isolation from the technical and infrastructure layers.
+
+- **Development & Quality :**  
+I write clean code, designed to be inherently reliable and testable. I adhere to the SOLID principles within each layer to avoid tight coupling and facilitate future evolution.
+On the client side, I design responsive interfaces based on the MVVM pattern for a clear separation between the view and the application logic.
+
+- **Lifecycle :**  
+I secure the software lifecycle using an industrial approach. From requirements analysis to production deployment, I integrate automation (CI/CD) and a comprehensive testing pyramid (unit, integration, end-to-end) from the project's inception to guarantee smooth and reliable deliveries.
+
+## Innovation & Cross-Functional Projects
+
+- **Scripting :**  
+Beyond application code, I develop tools to eliminate repetitive manual tasks and optimize development workflows. I leverage the versatility of Python (data processing, scraping, LLM integration via Ollama, etc.) and the cross-platform power of PowerShell Core to design useful CLIs that automate and streamline daily operations.
+
+- **IoT and Home Automation :**  
+I explore the synergies between the web and hardware through the design of embedded systems (Parks & Gardens Equipment Management). I implement a distributed architecture combining data collection (Arduino), a central server (Raspberry Pi) and a complete web interface for control and visualization.
 
 <div align="left">
   :art: https://www.emmanuellefevre.com/ :art:
