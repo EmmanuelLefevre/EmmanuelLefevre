@@ -15,9 +15,9 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/%3F-Who%20i%20am-81007F?style=for-the-badge&labelColor=dadde1">
-
 ## 
+
+<img src="https://img.shields.io/badge/❓-Who%20i%20am-81007F?style=for-the-badge&labelColor=dadde1">
 
 Passionate about software development, I design sustainable solutions by placing code quality at the heart of my approach. A proponent of Clean Code and SOLID principles, I have evolved my expertise from traditional architectures to more robust, modern models such as Hexagonal Architecture and Clean Architecture, ensuring applications where business logic reigns supreme, independent of frameworks and technical details.
 
@@ -29,7 +29,7 @@ Passionate about software development, I design sustainable solutions by placing
 
 I am committed to delivering robust, maintainable, and scalable software solutions. To achieve this, I aim for strict alignment with business needs, prioritizing a clear separation of responsibilities.
 
-<img src="https://img.shields.io/badge/🏗️-Architecture_%26_Development-81007F?style=for-the-badge&labelColor=dadde1">
+<img src="https://img.shields.io/badge/🏗️-Architecture_%26_Development-FE06A1?style=for-the-badge&labelColor=dadde1">
 
 ## 
 
@@ -43,7 +43,7 @@ On the client side, I design responsive interfaces based on the MVVM pattern for
 - **Lifecycle :**  
 I secure the software lifecycle using an industrial approach. From requirements analysis to production deployment, I integrate automation (CI/CD) and a comprehensive testing pyramid (unit, integration, end-to-end) from the project's inception to guarantee smooth and reliable deliveries.
 
-## Innovation & Cross-Functional Projects
+<img src="https://img.shields.io/badge/💡-Innovation_%26_Cross--Functional_Projects-FE06A1?style=for-the-badge&labelColor=dadde1">
 
 - **Scripting :**  
 Beyond application code, I develop tools to eliminate repetitive manual tasks and optimize development workflows. I leverage the versatility of Python (data processing, scraping, LLM integration via Ollama, etc.) and the cross-platform power of PowerShell Core to design useful CLIs that automate and streamline daily operations.
