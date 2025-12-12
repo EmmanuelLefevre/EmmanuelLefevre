@@ -21,13 +21,11 @@
 
 Passionate about software development, I design sustainable solutions by placing code quality at the heart of my approach. A proponent of Clean Code and SOLID principles, I have evolved my expertise from traditional architectures to more robust, modern models such as Hexagonal Architecture and Clean Architecture, ensuring applications where business logic reigns supreme, independent of frameworks and technical details.
 
-![Skills](https://img.shields.io/badge/Skills-81007F?style=for-the-badge)
+<!-- <img src="https://img.shields.io/badge/⚡_Skills-81007F?style=for-the-badge">
 
-<img src="https://img.shields.io/badge/⚡_Skills-81007F?style=for-the-badge">
+<img src="https://img.shields.io/badge/⚡_Skills-81007F?style=for-the-badge" height="50"> -->
 
-<img src="https://img.shields.io/badge/⚡_Skills-81007F?style=for-the-badge" height="50">
-
-<img src="https://img.shields.io/badge/⚡-Skills-81007F?style=for-the-badge&labelColor=white" height="50">
+<img src="https://img.shields.io/badge/⚡-Skills-81007F?style=for-the-badge&labelColor=black" height="50">
 
 ## 
 
