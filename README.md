@@ -15,7 +15,15 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/❓-Who%20i%20am-81007F?style=for-the-badge&labelColor=dadde1">
+<img src="https://img.shields.io/badge/%3F-Who%20i%20am-81007F?style=flat&labelColor=f6f8fa">
+
+<img src="https://img.shields.io/badge/%3F-Who%20i%20am-81007F?style=for-the-badge&labelColor=f6f8fa">
+
+<img src="https://img.shields.io/badge/%3F-Who%20i%20am-81007F?style=flat-square&labelColor=f6f8fa">
+
+<img src="https://img.shields.io/badge/%3F-Who%20i%20am-81007F?style=plastic&labelColor=f6f8fa">
+
+<img src="https://img.shields.io/badge/%3F-Who%20i%20am-81007F?style=social&labelColor=f6f8fa">
 
 ## 
 
@@ -23,7 +31,7 @@ Passionate about software development, I design sustainable solutions by placing
 
 <br/>
 
-<img src="https://img.shields.io/badge/⚡-Skills-81007F?style=for-the-badge&labelColor=dadde1">
+<img src="https://img.shields.io/badge/⚡-Skills-81007F?style=for-the-badge&labelColor=f6f8fa">
 
 ## 
 
