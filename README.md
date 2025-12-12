@@ -14,7 +14,7 @@
 <h4 align="center">🧰 Mainly focused in Angular/.NET 🧰</h4>
 
 <div align="center">
-  <img src="https://placehold.co/600x5/81007F/81007F.png" width="60%" height="2">
+  <img src="https://placehold.co/600x5/81007F/81007F.png" width="70%" height="2">
 </div>
 
 <br>
@@ -31,11 +31,11 @@ Passionate about software development, I design sustainable solutions by placing
 
 I am committed to delivering robust, maintainable, and scalable software solutions. To achieve this, I aim for strict alignment with business needs, prioritizing a clear separation of responsibilities.
 
-<br>
-
 <div align="left">
-  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="60%" height="2">
+  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="80%" height="1">
 </div>
+
+<br>
 
 <img src="https://img.shields.io/badge/🏗️-Architecture_%26_Development-FB8E06?style=for-the-badge&labelColor=dadde1">
 
@@ -50,8 +50,10 @@ On the client side, I design responsive interfaces based on the MVVM pattern for
 I secure the software lifecycle using an industrial approach. From requirements analysis to production deployment, I integrate automation (CI/CD) and a comprehensive testing pyramid (unit, integration, end-to-end) from the project's inception to guarantee smooth and reliable deliveries.
 
 <div align="left">
-  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="60%" height="2">
+  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="80%" height="2">
 </div>
+
+<br>
 
 <img src="https://img.shields.io/badge/💡-Innovation_%26_Cross--Functional_Projects-FB8E06?style=for-the-badge&labelColor=dadde1">
 
@@ -82,7 +84,7 @@ I explore the synergies between the web and hardware through the design of embed
 emmanuellefevre@protonmail.com
 
 <div align="center">
-  <img src="https://placehold.co/600x5/81007F/81007F.png" width="60%" height="2">
+  <img src="https://placehold.co/600x5/81007F/81007F.png" width="70%" height="2">
 </div>
 
 <div align="center">
