@@ -72,7 +72,6 @@ I explore the synergies between the web and hardware through the design of embed
 emmanuellefevre@protonmail.com
 
 ## 
-## 
 
 <div align="center">
   <h2>🧰  Tools  🧰</h2>
