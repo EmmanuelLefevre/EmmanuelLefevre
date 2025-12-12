@@ -85,8 +85,7 @@ I explore the synergies between the web and hardware through the design of embed
 <img src="https://img.shields.io/badge/📫-Contact-81007F?style=for-the-badge&labelColor=dadde1">
 
 emmanuellefevre@protonmail.com
-
-
+<br>
 
 <h2 align="center">
   <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="50%" height="3">
