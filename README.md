@@ -24,7 +24,7 @@
 
 Passionate about software development, I design sustainable solutions by placing code quality at the heart of my approach. A proponent of Clean Code and SOLID principles, I have evolved my expertise from traditional architectures to more robust, modern models such as Hexagonal Architecture and Clean Architecture, ensuring applications where business logic reigns supreme, independent of frameworks and technical details.
 
-<img src="https://placehold.co/1000x4/81007F/81007F.png" width="100%" height="2">
+<img src="https://placehold.co/1000x4/81007F/81007F.png" width="100%" height="1">
 
 <br>
 
