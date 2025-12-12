@@ -11,11 +11,11 @@
 </h1>
 
 <h3 align="center">🔥 Fullstack application and web developer from France 🔥</h3>
-<h4 align="center">🧰 Skills mainly focused in Angular/.NET 🧰</h4>
+<h4 align="center">🧰 Mainly focused in Angular/.NET 🧰</h4>
 
 <br/>
 
-<img src="https://img.shields.io/badge/❓-Who%20i%20amF-81007F?style=for-the-badge&labelColor=white" height="50">
+<img src="https://img.shields.io/badge/❓-Who%20i%20am-81007F?style=for-the-badge&labelColor=white" height="50">
 
 ## 
 
@@ -25,7 +25,7 @@ Passionate about software development, I design sustainable solutions by placing
 
 <img src="https://img.shields.io/badge/⚡_Skills-81007F?style=for-the-badge" height="50"> -->
 
-<img src="https://img.shields.io/badge/⚡-Skills-81007F?style=for-the-badge&labelColor=black" height="50">
+<img src="https://img.shields.io/badge/⚡-Skills-81007F?style=for-the-badge&labelColor=black" height="100">
 
 ## 
 
