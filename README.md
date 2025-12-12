@@ -15,7 +15,7 @@
 
 <br/>
 
-<img src="https://img.shields.io/badge/❓-Who%20i%20am-81007F?style=for-the-badge&labelColor=dadde1">
+<img src="https://img.shields.io/badge/Who%20i%20am-❓-dadde1?style=for-the-badge&labelColor=81007F">
 
 ## 
 
