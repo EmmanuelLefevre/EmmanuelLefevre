@@ -14,7 +14,7 @@
 <h4 align="center">🧰 Mainly focused in Angular/.NET 🧰</h4>
 
 <div align="center">
-  <img src="https://placehold.co/600x5/81007F/81007F.png" width="80%" height="2">
+  <img src="https://placehold.co/600x5/81007F/81007F.png" width="60%" height="2">
 </div>
 
 <br>
@@ -23,7 +23,7 @@
 
 Passionate about software development, I design sustainable solutions by placing code quality at the heart of my approach. A proponent of Clean Code and SOLID principles, I have evolved my expertise from traditional architectures to more robust, modern models such as Hexagonal Architecture and Clean Architecture, ensuring applications where business logic reigns supreme, independent of frameworks and technical details.
 
-## 
+<img src="https://placehold.co/1000x4/81007F/81007F.png" width="100%" height="2">
 
 <br>
 
@@ -53,7 +53,7 @@ Beyond application code, I develop tools to eliminate repetitive manual tasks an
 - **IoT and Home Automation :**  
 I explore the synergies between the web and hardware through the design of embedded systems (Parks & Gardens Equipment Management). I implement a distributed architecture combining data collection (Arduino), a central server (Raspberry Pi) and a complete web interface for control and visualization.
 
-## 
+<img src="https://placehold.co/1000x4/81007F/81007F.png" width="100%" height="2">
 
 <br>
 
@@ -65,7 +65,7 @@ I explore the synergies between the web and hardware through the design of embed
 
 <div align="left">☄️ https://astrofall.vercel.app/ ☄️</div>
 
-## 
+<img src="https://placehold.co/1000x4/81007F/81007F.png" width="100%" height="2">
 
 <br>
 
@@ -74,7 +74,7 @@ I explore the synergies between the web and hardware through the design of embed
 emmanuellefevre@protonmail.com
 
 <div align="center">
-  <img src="https://placehold.co/600x5/81007F/81007F.png" width="80%" height="2">
+  <img src="https://placehold.co/600x5/81007F/81007F.png" width="60%" height="4">
 </div>
 
 <div align="center">
