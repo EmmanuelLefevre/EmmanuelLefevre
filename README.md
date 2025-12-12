@@ -14,7 +14,7 @@
 
 <br/>
 
-I have experience in building sites and web applications mainly in Angular/Symfony, I have also developed skills in home automation. I enjoy building side projects in my free time.
+I have experience in building sites and web applications mainly in Angular/.NET, I have also developed skills in home automation. I enjoy building side projects in my free time.
 
 <div align="left">
   :art: https://www.emmanuellefevre.com/ :art:
