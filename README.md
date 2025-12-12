@@ -10,12 +10,12 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Seaweed+Script&size=48&duration=4000&pause=1000&color=81007F&center=true&vCenter=true&width=550&height=70&lines=Hello+There&nbsp;!+👋;+I'm+Emmanuel+Lefevre&nbsp;!;" />
 </h1>
 
-<h3 align="center">🔥 I'm a Fullstack application and web developer from France 🔥</h3>
-<h4 align="center">🧰 My skills are mainly focused in Angular/.NET 🧰</h4>
+<h3 align="center">🔥 Fullstack application and web developer from France 🔥</h3>
+<h4 align="center">🧰 Skills mainly focused in Angular/.NET 🧰</h4>
 
 <br/>
 
-<img src="https://img.shields.io/badge/❓-Who%20i%20am%20%3F-81007F?style=for-the-badge&labelColor=white" height="50">
+<img src="https://img.shields.io/badge/❓-Who%20i%20amF-81007F?style=for-the-badge&labelColor=white" height="50">
 
 ## 
 
