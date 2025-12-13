@@ -252,6 +252,8 @@ emmanuellefevre@protonmail.com
   💻 Top Repositories 💻
 </h2>
 
+<br>
+
 <div width="100%" align="center">
   <a align="left" href="https://github.com/EmmanuelLefevre/Sortify" title="Sortify">
     <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=Sortify&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
@@ -265,7 +267,7 @@ emmanuellefevre@protonmail.com
   <br clear="all">
 </div>
 
-#
+<img src="https://placehold.co/600x5/81007F/81007F.png" width="60%" height="3">
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/EmmanuelLefevre/AngularTemplate" title="AngularTemplate">
