@@ -259,6 +259,11 @@ emmanuellefevre@protonmail.com
   <a align="right" href="https://github.com/EmmanuelLefevre/AstroFall" title="AstroFall">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=AstroFall&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
   </a>
+</div>
+
+<br>
+
+<div width="100%" align="center">
   <a align="right" href="https://github.com/EmmanuelLefevre/AngularTemplate" title="AngularTemplate">
     <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=AngularTemplate&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
   </a>
