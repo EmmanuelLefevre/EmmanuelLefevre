@@ -261,7 +261,9 @@ emmanuellefevre@protonmail.com
   </a>
 </div>
 
-<div style="height: 20px; clear: both;"></div>
+<div align="center">
+  <br clear="all">
+</div>
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/EmmanuelLefevre/AngularTemplate" title="AngularTemplate">
@@ -272,7 +274,9 @@ emmanuellefevre@protonmail.com
   </a>
 </div>
 
-<div style="height: 20px; clear: both;"></div>
+<div align="center">
+  <br clear="all">
+</div>
 
 <h4 align="center">
   <a href="https://github.com/EmmanuelLefevre?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
