@@ -187,7 +187,7 @@ emmanuellefevre@protonmail.com
 <br>
 
 <h2 align="center">
-  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="70%" height="3">
+  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="70%" height="2">
   <br>
   📚  Languages  📚
 </h2>
