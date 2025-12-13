@@ -278,6 +278,9 @@ emmanuellefevre@protonmail.com
   <br clear="all">
 </div>
 
+<br>
+<br>
+
 <h4 align="center">
   <a href="https://github.com/EmmanuelLefevre?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
