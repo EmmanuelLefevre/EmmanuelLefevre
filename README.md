@@ -264,12 +264,13 @@ emmanuellefevre@protonmail.com
 </div>
 
 <div align="center">
-  <br>
   <br clear="all">
 </div>
 
 <div align="center">
-  <img src="https://placehold.co/600x5/81007F/81007F.png" width="60%" height="1">
+  <br>
+  <img src="https://placehold.co/600x5/81007F/81007F.png" width="60%" height="2">
+  <br>
 </div>
 
 <div align="center">
