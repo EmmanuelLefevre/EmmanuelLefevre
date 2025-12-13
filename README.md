@@ -262,6 +262,7 @@ emmanuellefevre@protonmail.com
 </div>
 
 <br>
+<br>
 
 <div width="100%" align="center">
   <a align="left" href="https://github.com/EmmanuelLefevre/AngularTemplate" title="AngularTemplate">
