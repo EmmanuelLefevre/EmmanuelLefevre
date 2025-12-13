@@ -269,6 +269,7 @@ emmanuellefevre@protonmail.com
 
 <div align="center">
   <br>
+  <br>
   <img src="https://placehold.co/600x5/81007F/81007F.png" width="60%" height="1">
   <br>
   <br>
