@@ -90,6 +90,7 @@ emmanuellefevre@protonmail.com
 
 <h2 align="center">
   <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="70%" height="3">
+  <br>
   🧰 Tools 🧰
 </h2>
 
@@ -181,6 +182,7 @@ emmanuellefevre@protonmail.com
 
 <h2 align="center">
   <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="70%" height="3">
+  <br>
   📚  Languages  📚
 </h2>
 
@@ -208,6 +210,7 @@ emmanuellefevre@protonmail.com
 <!-- SNAKE CONTRIBUTION -->
 <h2 align="center">
   <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="70%" height="3">
+  <br>
   🎯  Contributions  🎯
 </h2>
 <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/EmmanuelLefevre/EmmanuelLefevre/output/github-contribution-grid-snake.svg" />
@@ -215,6 +218,7 @@ emmanuellefevre@protonmail.com
 <!-- STATS / STREAK -->
 <h2 align="center">
   <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="70%" height="3">
+  <br>
   📊  Stats  📊
 </h2>
 
@@ -244,6 +248,7 @@ emmanuellefevre@protonmail.com
 
 <h2 align="center">
   <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="70%" height="3">
+  <br>
   💻 Top Repositories 💻
 </h2>
 
