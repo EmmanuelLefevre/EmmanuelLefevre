@@ -72,7 +72,7 @@ I explore the synergies between the web and hardware through the design of embed
 
 <div align="left">:art: https://www.emmanuellefevre.com :art:</div>
 
-<div align="left">⚡ https://www.angulartemplate.emmanuellefevre.com/ ⚡</div>
+<div align="left">⚡ https://www.angulartemplate.emmanuellefevre.com ⚡</div>
 
 <div align="left">☄️ https://astrofall.vercel.app ☄️</div>
 
