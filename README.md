@@ -70,13 +70,13 @@ I explore the synergies between the web and hardware through the design of embed
 
 <img src="https://img.shields.io/badge/💼-Works-81007F?style=for-the-badge&labelColor=dadde1">
 
-<div align="left">:art: https://www.emmanuellefevre.com/ :art:</div>
+<div align="left">:art: https://www.emmanuellefevre.com :art:</div>
 
-<div align="left">⚡ https://www.angulartemplate.emmanuellefevre.com/home ⚡</div>
+<div align="left">⚡ https://www.angulartemplate.emmanuellefevre.com/ ⚡</div>
 
-<div align="left">☄️ https://astrofall.vercel.app/ ☄️</div>
+<div align="left">☄️ https://astrofall.vercel.app ☄️</div>
 
-<div align="left">🤖 https://www.cabinet-curiosites.fr/ 🤖</div>
+<div align="left">🤖 https://www.cabinet-curiosites.fr 🤖</div>
 
 <br>
 
