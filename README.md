@@ -262,6 +262,16 @@ emmanuellefevre@protonmail.com
 
 <br>
 
+<p align="center">
+  <a href="https://github.com/EmmanuelLefevre/AngularTemplate">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=AngularTemplate&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/EmmanuelLefevre/Sortify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=Sortify&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
+  </a>
+</p>
+
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 <div width="100%" align="center">
