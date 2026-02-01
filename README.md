@@ -244,6 +244,7 @@ emmanuellefevre@protonmail.com
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emmanuellefevre&langs_count=16&layout=compact&theme=default&border_radius=15&border_color=81007F&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats&custom_title=Top%20%Languages&title_color=81007F" alt="Top Languages" />
 </div>
 
+[![Top Langs](https://helio-github-stats.vercel.app/api/top-langs?username=emmanuellefevre&layout=donut-vertical&stats_format=percentages&theme=default&hide_border=false&border_radius=15&card_width=466&locale=pt-br&custom_title=TOP%2520LANGUAGES&langs_count=20&count_weight=0.1)](https://github.com/emmanuellefevre)
 
 <br>
 
