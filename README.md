@@ -10,9 +10,13 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Seaweed+Script&size=48&duration=4000&pause=1000&color=81007F&center=true&vCenter=true&width=550&height=70&lines=Hello+There&nbsp;!+👋;+I'm+Emmanuel+Lefevre&nbsp;!;" />
 </h1>
 
+<br>
+
 <div align="center">
   <img align="center" width="300" height="300" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" />
 </div>
+
+<br>
 
 <h3 align="center">🔥 Fullstack application and web developer from France 🔥</h3>
 <h4 align="center">🧰 Mainly focused in Angular/.NET 🧰</h4>
