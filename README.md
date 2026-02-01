@@ -267,7 +267,7 @@ emmanuellefevre@protonmail.com
     <img align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=AngularTemplate&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
   </a>
   <a align="right" href="https://github.com/EmmanuelLefevre/Sortify" title="Sortify">
-    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=Sortify&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
+    <img align="right" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=Sortify&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15&cache_seconds=7201" />
   </a>
 </div>
 
