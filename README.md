@@ -38,7 +38,7 @@ Passionate about software development, I design sustainable solutions by placing
 
 <img src="https://img.shields.io/badge/💪-Skills-81007F?style=for-the-badge&labelColor=dadde1">
 
-I am committed to delivering robust, maintainable, and scalable software solutions. To achieve this, I aim for strict alignment with business needs, prioritizing a clear separation of responsibilities.
+I am committed to delivering robust, maintainable and scalable software solutions. To achieve this I aim for strict alignment with business needs, prioritizing a clear separation of responsibilities.
 
 <div align="left">
   <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="80%" height="1">
