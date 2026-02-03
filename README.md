@@ -51,7 +51,7 @@ I am committed to delivering robust, maintainable and scalable software solution
 - **Design :**  
 I place the business domain at the heart of the application. Using Hexagonal Architecture, I guarantee system decoupling and implement Dependency Inversion to ensure strong isolation from the technical and infrastructure layers.
 
-- **Methodology* :**  
+- **Methodology :**  
 I leverage the fundamentals of Extreme Programming (XP) to reconcile agility and technical excellence. I prioritize continuous refactoring and simple design principles (YAGNI, KISS, Simple Design) to maintain a healthy codebase and ensure no regressions, thus enabling evolutions without rigidity or technical debt.
 
 - **Development & Quality :**  
