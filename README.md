@@ -55,8 +55,8 @@ I place the business domain at the heart of the application. Using Hexagonal Arc
 I leverage the fundamentals of Extreme Programming (XP) to reconcile agility and technical excellence. I prioritize continuous refactoring and simple design principles (YAGNI, KISS, Simple Design) to maintain a healthy codebase and ensure no regressions, thus enabling evolutions without rigidity or technical debt.
 
 - **Development & Quality :**  
-I write clean code, designed to be inherently reliable and testable. I adhere to the SOLID principles within each layer to avoid tight coupling and facilitate future evolution.
-On the client side, I design responsive interfaces based on the MVVM pattern for a clear separation between the view and the application logic.
+I write clean, well-documented code designed to be inherently reliable and testable. I adhere to the SOLID principles within each layer to avoid tight coupling and facilitate future evolution.
+On the client side, I design responsive interfaces based on the MVVM pattern for a clear separation between the view and application logic, while ensuring compliance with accessibility standards for an inclusive experience...
 
 - **Lifecycle :**  
 I secure the software lifecycle using an industrial approach. From requirements analysis to production deployment, I integrate automation (CI/CD) and a comprehensive testing pyramid (unit, integration, E2E) from the project's inception to guarantee smooth and reliable deliveries.
