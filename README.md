@@ -17,7 +17,7 @@
 </div> -->
 
 <div align="center">
-  <img align="center" width="600" height="600" src="https://i.ibb.co/v1TYkX3/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif" />
+  <img align="center" width="700" height="700" src="https://i.ibb.co/v1TYkX3/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif" />
 </div>
 
 <br>
