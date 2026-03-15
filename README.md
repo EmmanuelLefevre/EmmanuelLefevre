@@ -274,55 +274,37 @@ emmanuellefevre@protonmail.com
 <br>
 
 <div align="center">
-    <a href="https://github.com/EmmanuelLefevre/AngularTemplate" title="AngularTemplate">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=AngularTemplate&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/EmmanuelLefevre/Sortify" title="Sortify">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=Sortify&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
-  </a>
+  <a href="https://github.com/EmmanuelLefevre/AngularTemplate" title="AngularTemplate"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=AngularTemplate&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/EmmanuelLefevre/Sortify" title="Sortify"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=Sortify&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" /></a>
 </div>
 
-<div align="center">
-  <br clear="all">
-</div>
+<br>
 
 <div align="center">
-  &nbsp; <br/>
   <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="50%" height="1">
-  &nbsp; <br/>
-  &nbsp; <br/>
 </div>
 
-<div align="center">
-  <a href="https://github.com/EmmanuelLefevre/AstroFall" title="AstroFall">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=AstroFall&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/EmmanuelLefevre/Yam4" title="Yam4">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=Yam4&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
-  </a>
-</div>
+<br>
 
 <div align="center">
-  <br clear="all">
+  <a href="https://github.com/EmmanuelLefevre/AstroFall" title="AstroFall"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=AstroFall&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/EmmanuelLefevre/Yam4" title="Yam4"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=Yam4&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" /></a>
 </div>
 
+<br>
+
 <div align="center">
-  &nbsp; <br/>
   <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="50%" height="1">
-  &nbsp; <br/>
-  &nbsp; <br/>
 </div>
 
+<br>
+
 <div align="center">
-  <a href="https://github.com/EmmanuelLefevre/GPull" title="GPull">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=GPull&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/EmmanuelLefevre/CotonShop" title="CotonShop">
-    <img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=CotonShop&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" />
-  </a>
+  <a href="https://github.com/EmmanuelLefevre/GPull" title="GPull"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=GPull&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" /></a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/EmmanuelLefevre/CotonShop" title="CotonShop"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=CotonShop&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" /></a>
 </div>
 
 <div align="center">
