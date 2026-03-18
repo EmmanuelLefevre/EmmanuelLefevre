@@ -282,6 +282,12 @@ emmanuellefevre@protonmail.com
 <br>
 
 <div align="center">
+  <img src="https://placehold.co/600x5/FB8E06/FB8E06.png" width="50%" height="1">
+</div>
+
+<br>
+
+<div align="center">
   <a href="https://github.com/EmmanuelLefevre/ElexxionMinio" title="ElexxionMinio"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=ElexxionMinio&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" /></a>
   &nbsp;&nbsp;
   <a href="https://github.com/EmmanuelLefevre/Sortify" title="Sortify"><img width="40%" src="https://github-readme-stats.vercel.app/api/pin/?username=EmmanuelLefevre&repo=Sortify&theme=default&bg_color=FFFFFF&text_color=696969&title_color=81007F&show_icons=true&icon_color=fe06a1&border_color=81007F&border_radius=15" /></a>
