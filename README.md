@@ -7,13 +7,13 @@
 <br>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Seaweed+Script&size=48&duration=4000&pause=1000&color=81007F&center=true&vCenter=true&width=550&height=auto&lines=Hello+There&nbsp;!+👋;+I'm+Emmanuel+Lefevre&nbsp;!;" width="80%" height="auto" alt="Message de bienvenue d'Emmanuel" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Seaweed+Script&size=48&duration=4000&pause=1000&color=81007F&center=true&vCenter=true&width=550&height=70&lines=Hello+There&nbsp;!+👋;+I'm+Emmanuel+Lefevre&nbsp;!;" alt="Message de bienvenue d'Emmanuel" />
 </h1>
 
 <br>
 
 <div align="center">
-  <img align="center" width="700" height="700" src="https://i.ibb.co/v1TYkX3/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif" />
+  <img align="center" width="700" height="auto" src="https://i.ibb.co/v1TYkX3/dfredg5-0a60e875-646e-4d6c-bb91-73086f012808.gif" />
 </div>
 
 <br>
