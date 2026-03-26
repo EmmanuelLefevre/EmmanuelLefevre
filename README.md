@@ -6,9 +6,9 @@
 
 <br>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Seaweed+Script&size=48&duration=4000&pause=1000&color=81007F&center=true&vCenter=true&width=550&height=70&lines=Hello+There&nbsp;!+👋;+I'm+Emmanuel+Lefevre&nbsp;!;" style="max-width: 100%; height: auto;" alt="Message de bienvenue d'Emmanuel" />
-</h1>
+<div align="center">
+  ![Texte alternatif](https://readme-typing-svg.herokuapp.com?font=Seaweed+Script&size=48&duration=4000&pause=1000&color=81007F&center=true&vCenter=true&width=550&height=70&lines=Hello+There&nbsp;!+👋;+I'm+Emmanuel+Lefevre&nbsp;!;)
+</div>
 
 <br>
 
